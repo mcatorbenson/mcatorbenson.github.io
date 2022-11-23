@@ -3,7 +3,7 @@ title: "Alaska - 2022"
 collection: gallery
 permalink: /gallery/gall1
 ---
-
+Alaska fieldwork (MONOSTAR), 2022
 <html>
    <img src="/images/ak1.png"  width="300">
    <img src="images/image-002.jpg">
