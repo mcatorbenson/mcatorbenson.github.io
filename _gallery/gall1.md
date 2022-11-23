@@ -1,3 +1,9 @@
+---
+title: "Gallery"
+collection: gallery
+permalink: /gallery/gall1
+---
+
 <html>
    <img src="images/image-001.jpg">
    <img src="images/image-002.jpg">
