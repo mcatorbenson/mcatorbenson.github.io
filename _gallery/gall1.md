@@ -5,7 +5,7 @@ permalink: /gallery/gall1
 ---
 Alaska fieldwork (MONOSTAR), 2022
 <html>
-   <img src="/images/ak1.png"  heigth="200">
+   <img src="/images/ak1.png"  height="200">
    <img src="/images/ak2.png">
    <img src="/images/ak3.png">
    <br><img src="images/image-004.jpg">
