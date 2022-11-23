@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Max Torbenson"
 title_separator          : "-"
-name                     : &name "Max Torbeson"
+name                     : &name "Max Torbenson"
 description              : &description "personal description"
 url                      : https://mcatorbenson.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
