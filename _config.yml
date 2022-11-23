@@ -85,9 +85,10 @@ author:
   bio              : "Research associate with the Johannes Gutenberg Universität"
   location         : "Mainz, Germany"
   employer         :
-  pubmed           : 
+  pubmed           :
+  email            : "mtorbens@uni-mainz.de"
+  orcid            : "http://orcid.org/0000-0003-2720-2238"
   googlescholar    : "https://scholar.google.com/citations?user=BnFx9RQAAAAJ&hl=en"
-  email            :
   researchgate     : "https://www.researchgate.net/profile/Max-Torbenson"
   uri              :
   bitbucket        :
@@ -103,7 +104,6 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0003-2720-2238"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
