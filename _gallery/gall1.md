@@ -5,7 +5,7 @@ permalink: /gallery/gall1
 ---
 
 <html>
-   <img src="images/ak1.png">
+   <img src="/images/ak1.png"  width="400">
    <img src="images/image-002.jpg">
    <img src="images/image-003.jpg">
    <img src="images/image-004.jpg">
