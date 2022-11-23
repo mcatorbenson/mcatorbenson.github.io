@@ -1,6 +1,6 @@
 ---
 title: "Article published - November 1st, 2022"
-excerpt: "Preprint of paper available"
+excerpt: "Paper published"
 collection: news
 permalink: /publication/nw4
 ---
