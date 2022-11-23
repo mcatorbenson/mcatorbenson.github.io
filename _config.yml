@@ -186,6 +186,9 @@ collections:
     permalink: /:collection/:path/
   gallery:
     output: true
+    permalink: /:collection/:path/    
+  portfolio:
+    output: true
     permalink: /:collection/:path/
 
 
@@ -209,10 +212,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _portfolio
   - scope:
       path: ""
-      type: teaching
+      type: single
     values:
       layout: single
       author_profile: true
