@@ -1,57 +1,44 @@
-<html>
-<head>
-<style>
-div.gallery {
-  margin: 5px;
-  border: 1px solid #ccc;
-  float: left;
-  width: 180px;
-}
-
-div.gallery:hover {
-  border: 1px solid #777;
-}
-
-div.gallery img {
-  width: 100%;
-  height: auto;
-}
-
-div.desc {
-  padding: 15px;
-  text-align: center;
-}
-</style>
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8">
+  
+  <title>Image Gallery</title>
+  <meta name="description" content="Responsive Image Gallery">
+  <meta name="author" content="Tim Wells">
+  
+  <style type="text/css">
+  </style>
 </head>
 <body>
-
-<div class="gallery">
-  <a target="_blank" href="img_5terre.jpg">
-    <img src="img_5terre.jpg" alt="Cinque Terre" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="img_forest.jpg">
-    <img src="img_forest.jpg" alt="Forest" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="img_lights.jpg">
-    <img src="img_lights.jpg" alt="Northern Lights" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="img_mountains.jpg">
-    <img src="img_mountains.jpg" alt="Mountains" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-
-</body>
+<div id="gallery">
+  
+   <img src="images/image-001.jpg">
+   <img src="images/image-002.jpg">
+   <img src="images/image-003.jpg">
+   <img src="images/image-004.jpg">
+   <img src="images/image-005.jpg">
+   <img src="images/image-006.jpg">
+   <img src="images/image-007.jpg">
+   <img src="images/image-008.jpg">
+   <img src="images/image-009.jpg">
+   <img src="images/image-010.jpg">
+   <img src="images/image-011.jpg">
+   <img src="images/image-012.jpg">
+   <img src="images/image-013.jpg">
+   <img src="images/image-014.jpg">
+   <img src="images/image-015.jpg">
+   <img src="images/image-016.jpg">
+   <img src="images/image-017.jpg">
+   <img src="images/image-018.jpg">
+   <img src="images/image-019.jpg">
+   <img src="images/image-020.jpg">
+   <img src="images/image-021.jpg">
+   <img src="images/image-022.jpg">
+   <img src="images/image-023.jpg">
+   <img src="images/image-024.jpg">
+  
+  </div>
+ 
+ </body>
 </html>
