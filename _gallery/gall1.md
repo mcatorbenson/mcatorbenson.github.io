@@ -11,4 +11,5 @@ permalink: /gallery/gall1
    <img src="images/image-004.jpg">
    <img src="images/image-005.jpg">
    <img src="images/image-006.jpg">
+   <a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
 </html>
