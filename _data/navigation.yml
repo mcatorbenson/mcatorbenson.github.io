@@ -2,10 +2,10 @@
 main:
     
   - title: "News"
-    url: /portfolio/
+    url: /news/
     
   - title: "Research"
-    url: /publications/
+    url: /research/
 
   - title: "Publications"
-    url: /talks/        
+    url: /publications/        
