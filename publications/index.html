@@ -4,6 +4,8 @@ title: Publications
 ---
 <h2>Publications</h2>
 
+{% assign total_pubs = site.data.publications | size %}
+{% assign counter = total_pubs %}
 {% assign current_year = nil %}
 
 {% for pub in site.data.publications %}
@@ -17,7 +19,7 @@ title: Publications
 
     <details open class="pub-year-block">
       <summary class="pub-year">{{ current_year }}</summary>
-      <ol class="publications">
+      <ol class="publications" start="{{ counter }}">
   {% endif %}
 
   <li class="pub-item">
@@ -28,6 +30,7 @@ title: Publications
     <a href="https://doi.org/{{ pub.doi }}">https://doi.org/{{ pub.doi }}</a>{% endif %}
   </li>
 
+  {% assign counter = counter | minus: 1 %}
 {% endfor %}
 
 {% if current_year %}
