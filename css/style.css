@@ -1,4 +1,7 @@
-/* Reset-ish */
+/* =========================
+   Base / Reset
+   ========================= */
+
 * {
   box-sizing: border-box;
 }
@@ -11,16 +14,35 @@ body {
   background: #fff;
 }
 
-/* Header */
+
+/* =========================
+   Site Header (sticky)
+   ========================= */
+
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background: #fff;
+  transition: box-shadow 0.3s ease;
+  border-bottom: 1px solid #eaeaea;
+}
+
+
+/* =========================
+   Header (title area)
+   ========================= */
+
 header {
   padding: 60px 20px 40px;
-  border-bottom: 1px solid #eaeaea;
   text-align: center;
+  transition: padding 0.3s ease;
 }
 
 header h1 {
   margin: 0;
   font-size: 2.2rem;
+  transition: font-size 0.3s ease;
 }
 
 header p {
@@ -28,18 +50,19 @@ header p {
   color: #666;
 }
 
-/* Navigation */
+
+/* =========================
+   Navigation
+   ========================= */
+
 nav {
   display: flex;
   justify-content: center;
   align-items: center;
   gap: 24px;
-
   padding: 16px;
-  border-bottom: 1px solid #eaeaea;
   background: #fff;
 }
-
 
 nav a {
   text-decoration: none;
@@ -57,65 +80,11 @@ nav a.active {
   border-bottom: 2px solid #000;
 }
 
-/* Main content */
-main {
-  max-width: 720px;
-  padding: 48px 20px;
-  margin: auto;
-}
 
-main h2 {
-  font-size: 1.6rem;
-  margin-top: 0;
-}
-
-main p {
-  margin-bottom: 1.2em;
-}
-
-/* Footer */
-footer {
-  border-top: 1px solid #eaeaea;
-
-  .site-header {
-  position: sticky;
-  top: 0;
-  z-index: 1000;
-  background: #fff;
-}
-
-  .profile-photo {
-  max-width: 200px;
-  border-radius: 4px;
-  margin: 24px 0;
-}
-  text-align: center;
-  padding: 24px;
-  font-size: 0.9rem;
-  color: #777;
-}
-
-main img {
-  max-width: 100%;
-  height: auto;
-}
-
-main {
-  text-align: justify;
-}
-
-.site-header {
-  transition: padding 0.3s ease, box-shadow 0.3s ease;
-}
+/* =========================
+   Header shrink state
+   ========================= */
 
 .site-header.shrunk header {
   padding: 20px 20px 12px;
-}
-
-.site-header.shrunk header h1 {
-  font-size: 1.6rem;
-}
-
-.site-header.shrunk header p {
-  display: none;
 }
