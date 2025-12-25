@@ -192,11 +192,12 @@ main .news p {
 }
 /* Global link styles */
 a {
-  color: #7a0019; /* Texas A&M–style maroon */
-  text-decoration: none;
+  color: #7a0019; /* maroon */
+  text-decoration: underline;
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 2px;
 }
 
 a:hover {
   color: #5c0013;
-  text-decoration: underline;
 }
