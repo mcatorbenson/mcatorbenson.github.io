@@ -96,3 +96,6 @@ main {
   text-align: justify;
   hyphens: auto;
 }
+body {
+  overflow-x: hidden;
+}
