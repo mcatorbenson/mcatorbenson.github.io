@@ -83,6 +83,12 @@ footer {
   z-index: 1000;
   background: #fff;
 }
+
+  .profile-photo {
+  max-width: 200px;
+  border-radius: 4px;
+  margin: 24px 0;
+}
   text-align: center;
   padding: 24px;
   font-size: 0.9rem;
