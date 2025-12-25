@@ -76,6 +76,13 @@ main p {
 /* Footer */
 footer {
   border-top: 1px solid #eaeaea;
+
+  .site-header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background: #fff;
+}
   text-align: center;
   padding: 24px;
   font-size: 0.9rem;
