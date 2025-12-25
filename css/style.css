@@ -39,3 +39,7 @@ footer {
   padding: 20px;
   font-size: 0.9em;
 }
+
+nav a.active {
+  color: #007acc;
+}
