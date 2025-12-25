@@ -1,5 +1,5 @@
 ---
 layout: default
-title: About
+title: Projects
 ---
   <p>Projects go here.</p>
