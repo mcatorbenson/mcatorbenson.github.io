@@ -183,3 +183,10 @@ footer {
 blockquote {
   text-align: left;
 }
+
+main .news,
+main .news li,
+main .news p {
+  text-align: left;
+  hyphens: none;
+}
