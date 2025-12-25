@@ -144,11 +144,14 @@ footer {
   padding: 24px 0;
   font-size: 0.9rem;
   color: #777;
+
+  display: flex;
+  justify-content: center;
 }
 
 .footer-inner {
   max-width: 720px;
-  margin: auto;
+  width: 100%;
   padding: 0 28px;
   text-align: center;
 }
