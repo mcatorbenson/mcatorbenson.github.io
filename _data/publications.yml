@@ -310,8 +310,51 @@
   journal: "Tree-Ring Research"
   doi: "10.3959/1536-1098-75.2.101"
 
-- authors: ""
+- authors: "**Torbenson**, M.C.A., Stahle, D.W."
   year: 2018
-  title: ""
-  journal: ""
-  doi: ""
+  title: "The relationship between cool and warm season moisture over the central United States, 1685-2015"
+  journal: "Journal of Climate"
+  doi: "10.1175/JCLI-D-17-0593.1"
+
+- authors: "de Assis Pereira, G., Barbosa, A.C., **Torbenson**, M.C.A., Stahle, D.W., Granato-Souza, D., dos Santos, R.M., Delfino Barbosa, J.P."
+  year: 2018
+  title: "The climate response of Cedrela fissilis annual ring width in the Rio Sao Francisco basin, Brazil"
+  journal: "Tree-Ring Research"
+  doi: "10.3959/1536-1098-74.2.162"
+  
+- authors: "Lopez, L., Stahle, D.W., Villalba, R., **Torbenson**, M.C.A., Feng, S., Cook, E.R."
+  year: 2017
+  title: "Tree-ring reconstructed rainfall over the southern Amazon Basin"
+  journal: "Geophysical Research Letters"
+  doi: "10.1002/2017GL073363"
+   
+- authors: "**Torbenson**, M.C.A., Stahle, D.W., Villanueva-Díaz, J., Cook, E.R., Griffin, D."
+  year: 2016
+  title: "The relationship between earlywood and latewood tree-growth across North America"
+  journal: "Tree-Ring Research"
+  doi: "10.3959/1536-1098-72.02.53"
+   
+- authors: "Stahle, D.W., Cook, E.R., Burnette, D.J., Villanueva-Díaz, J., Cerano, J., Burns, J.N., Griffin, D., Cook, B.I., Acuna, R., **Torbenson**, M.C.A., Sjezner, P., Howard, I.M."
+  year: 2016
+  title: "The Mexican Drought Atlas: Tree-ring reconstructions of the soil moisture balance during the late pre-Hispanic, colonial, and modern eras"
+  journal: "Quaternary Science Reviews"
+  doi: "j.quascirev.2016.06.018"
+   
+- authors: "**Torbenson**, M.C.A., Plunkett, G., Brown, D.M., Pilcher, J.R., Leuschner, H-H."
+  year: 2015
+  title: "Asynchrony in key Holocene chronologies: evidence from Irish bog pines"
+  journal: "Geology"
+  doi: "10.1130/G36914.1"
+   
+- authors: "St. George, S., **Torbenson**, M.C.A."
+  year: 2014
+  title: "New ages for shoreline stumps along Lake Winnipeg, Canada and their implications for paleo-lake level estimates"
+  journal: "The Holocene"
+  doi: "10.1177/0959683614540948"
+   
+- authors: "St. George, S., Ault, T.R., **Torbenson**, M.C.A."
+  year: 2013
+  title: "The rarity of absent growth rings in Northern Hemisphere forests outside the American Southwest"
+  journal: "Geophysical Research Letters"
+  doi: "10.1002/grl.50743"
+   
