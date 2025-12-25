@@ -88,3 +88,11 @@ nav a.active {
 .site-header.shrunk header {
   padding: 20px 20px 12px;
 }
+
+main {
+  max-width: 720px;
+  margin: auto;
+  padding: 48px 28px;
+  text-align: justify;
+  hyphens: auto;
+}
