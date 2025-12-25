@@ -2,16 +2,22 @@
 layout: default
 title: Publications
 ---
-
 ## Publications
 
 {% assign current_year = nil %}
 
-<ol class="publications">
 {% for pub in site.data.publications %}
   {% if pub.year != current_year %}
+    {% if current_year %}
+      </ol>
+      </details>
+    {% endif %}
+
     {% assign current_year = pub.year %}
-    <li class="pub-year">{{ current_year }}</li>
+
+    <details open class="pub-year-block">
+      <summary class="pub-year">{{ current_year }}</summary>
+      <ol class="publications">
   {% endif %}
 
   <li class="pub-item">
@@ -21,5 +27,10 @@ title: Publications
     {{ pub.journal }}{% if pub.doi %}.
     <a href="https://doi.org/{{ pub.doi }}">https://doi.org/{{ pub.doi }}</a>{% endif %}
   </li>
+
 {% endfor %}
-</ol>
+
+{% if current_year %}
+    </ol>
+  </details>
+{% endif %}
