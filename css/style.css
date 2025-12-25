@@ -143,6 +143,9 @@ main .publications p {
   margin-bottom: 0.6em;
 }
 
+.left-blurb {
+  text-align: left;
+}
 .pub-year::-webkit-details-marker {
   display: none;
 }
