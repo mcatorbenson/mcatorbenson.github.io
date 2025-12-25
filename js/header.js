@@ -1,11 +1,15 @@
-document.addEventListener("scroll", () => {
-  const header = document.querySelector(".site-header");
+const header = document.querySelector('.site-header');
 
-  if (!header) return;
+let isShrunk = false;
 
-  if (window.scrollY > 80) {
-    header.classList.add("shrunk");
-  } else {
-    header.classList.remove("shrunk");
+window.addEventListener('scroll', () => {
+  const y = window.scrollY;
+
+  if (!isShrunk && y > 120) {
+    header.classList.add('shrunk');
+    isShrunk = true;
+  } else if (isShrunk && y < 60) {
+    header.classList.remove('shrunk');
+    isShrunk = false;
   }
 });
