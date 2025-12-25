@@ -124,6 +124,7 @@ img {
   margin-top: 32px;
 }
 
-.publications p {
-  margin-bottom: 1.5em;
+.publications li {
+  text-align: left;
+  margin-bottom: 1.2em;
 }
