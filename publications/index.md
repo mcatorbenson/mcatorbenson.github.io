@@ -5,7 +5,7 @@ title: Publications
 
 ## Publications
 
-<ol class="publications">
+<ol class="publications" reversed>
 {% for pub in site.data.publications %}
   <li>
     {{ pub.authors | markdownify | remove: "<p>" | remove: "</p>" }}
