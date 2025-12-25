@@ -155,3 +155,14 @@ footer {
   padding: 0 28px;
   text-align: center;
 }
+
+.pub-year {
+  list-style: none;
+  margin: 1.8em 0 0.6em;
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+
+.pub-item {
+  margin-bottom: 1.2em;
+}
