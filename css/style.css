@@ -29,8 +29,8 @@ body {
   border-bottom: 1px solid #eaeaea;
 
       background-image: linear-gradient(
-      rgba(255, 255, 255, 0.45),
-      rgba(255, 255, 255, 0.45)
+      rgba(255, 255, 255, 0.25),
+      rgba(255, 255, 255, 0.25)
     ),
     url("../assets/images/PANO_20220711_173845.jpg");
 
