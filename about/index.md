@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
   <h2>About</h2>
-  <p>Here I intend to share some of the research that I am currently involved with. As of January 1st 2026, I am an assistant professor with the Department of Geography at Texas A&M. Previously, I worked as a research associate with the tree-ring lab of the Institute of Geography at Johannes Gutenberg-Universität-Mainz, and in the Stagge Hydrology lab (Department of Civil Engineering) at the Ohio State University. I received my Ph.D. in Geoscienes from the University of Arkansas (UARK Tree-Ring Laboratory). Prior to obtaining my master's degree in Geography from the University of Minnesota (at the Center for Dendrochronology), I studied for a Bachelor of Science in Archaeology and Palaeoecology at Queen's University Belfast, Northern Ireland. My research interests mainly revolve around tree growth and past and current climate variability.
+  <p>As of January 1st 2026, I am an assistant professor with the Department of Geography at Texas A&M. Previously, I worked as a research associate with the tree-ring lab of the Institute of Geography at Johannes Gutenberg-Universität-Mainz, and in the Stagge Hydrology lab (Department of Civil Engineering) at the Ohio State University. I received my Ph.D. in Geoscienes from the University of Arkansas (UARK Tree-Ring Laboratory). Prior to obtaining my master's degree in Geography from the University of Minnesota (at the Center for Dendrochronology), I studied for a Bachelor of Science in Archaeology and Palaeoecology at Queen's University Belfast, Northern Ireland. My research interests mainly revolve around tree growth and past and current climate variability.
   </p>
  <br>
     ![Alt text](/assets/images/SDC11860.JPG)
