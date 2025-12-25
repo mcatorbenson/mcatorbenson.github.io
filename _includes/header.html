@@ -11,12 +11,12 @@
 
   <a href="{{ '/news/' | relative_url }}"
      {% if page.url == '/news/' %}class="active"{% endif %}>
-    About
+    News
   </a>
 
   <a href="{{ '/about/' | relative_url }}"
      {% if page.url == '/about/' %}class="active"{% endif %}>
-    News
+    About
   </a>
 
   <a href="{{ '/projects/' | relative_url }}"
@@ -29,6 +29,11 @@
     Publications
   </a>
 
+  <a href="{{ '/gallery/' | relative_url }}"
+     {% if page.url == '/gallery/' %}class="active"{% endif %}>
+    Gallery
+  </a>
+    
   <a href="{{ '/contact/' | relative_url }}"
      {% if page.url == '/contact/' %}class="active"{% endif %}>
     Contact
