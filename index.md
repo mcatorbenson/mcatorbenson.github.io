@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: Home
 ---
   <h2>Welcome</h2>
   <p>
