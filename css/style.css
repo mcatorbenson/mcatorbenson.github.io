@@ -7,8 +7,8 @@
 }
 
 body {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
   margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
   line-height: 1.65;
   color: #222;
   background: #fff;
@@ -17,18 +17,17 @@ body {
 
 
 /* =========================
-   Site Header (sticky)
+   Site Header (static)
    ========================= */
 
 .site-header {
   position: sticky;
   top: 0;
   z-index: 1000;
-  background: #fff;
-  transition: box-shadow 0.3s ease;
   border-bottom: 1px solid #eaeaea;
 
-      background-image: linear-gradient(
+  background-image:
+    linear-gradient(
       rgba(255, 255, 255, 0.25),
       rgba(255, 255, 255, 0.25)
     ),
@@ -40,40 +39,25 @@ body {
 
 
 /* =========================
-   Header (title area)
+   Header title
    ========================= */
 
-header {
-  padding: 60px 20px 40px;
+.site-header header {
+  padding: 22px 20px 18px;
   text-align: center;
-   
-  background: transparent;
-  
 }
 
-header h1 {
+.site-header header h1 {
   margin: 0;
-  font-size: 5.2rem;
+  font-size: 2.4rem;
+  color: #111;
 
-    text-shadow:
+  /* white outline for contrast */
+  text-shadow:
     -2px -2px 0 #fff,
      2px -2px 0 #fff,
     -2px  2px 0 #fff,
      2px  2px 0 #fff;
-}
-
-header p {
-  margin-top: 10px;
-  color: #666;
-}
-
-
-.site-header header h1 {
-  transition: transform 0.3s ease;
-}
-
-.site-header.shrunk header h1 {
-  transform: scale(0.78);
 }
 
 
@@ -81,46 +65,35 @@ header p {
    Navigation
    ========================= */
 
-nav {
+.site-header nav {
   display: flex;
   justify-content: center;
   align-items: center;
   gap: 24px;
-  padding: 16px;
+  padding: 14px;
   background: #fff;
 }
 
-nav a {
+.site-header nav a {
   text-decoration: none;
   color: #555;
   font-weight: 500;
   padding-bottom: 4px;
 }
 
-nav a:hover {
+.site-header nav a:hover {
   color: #000;
 }
 
-nav a.active {
+.site-header nav a.active {
   color: #000;
   border-bottom: 2px solid #000;
 }
 
 
 /* =========================
-   Header shrink state
+   Main content
    ========================= */
-
-.site-header header {
-  padding: 60px 20px 40px;
-  text-align: center;
-  transform-origin: top;
-  transition: transform 0.3s ease;
-}
-
-.site-header.shrunk header {
-  transform: scale(0.7);
-}
 
 main {
   max-width: 720px;
@@ -137,12 +110,10 @@ main img {
   margin: 24px auto;
 }
 
-img {
-  max-width: 100%;
-}
-.publications {
-  margin-top: 32px;
-}
+
+/* =========================
+   Publications
+   ========================= */
 
 .publications {
   margin-top: 32px;
@@ -158,22 +129,6 @@ main .publications p {
 
 .publications li {
   margin-bottom: 1.2em;
-}
-footer {
-  border-top: 1px solid #eaeaea;
-  padding: 24px 0;
-  font-size: 0.9rem;
-  color: #777;
-
-  display: flex;
-  justify-content: center;
-}
-
-.footer-inner {
-  max-width: 720px;
-  width: 100%;
-  padding: 0 28px;
-  text-align: center;
 }
 
 .pub-year-block {
@@ -201,10 +156,23 @@ details:not([open]) .pub-year::before {
   content: "▸ ";
 }
 
-.publications {
-  padding-left: 1.8em;
+
+/* =========================
+   Footer
+   ========================= */
+
+footer {
+  border-top: 1px solid #eaeaea;
+  padding: 24px 0;
+  font-size: 0.9rem;
+  color: #777;
+  display: flex;
+  justify-content: center;
 }
 
-.pub-item {
-  margin-bottom: 1.2em;
+.footer-inner {
+  max-width: 720px;
+  width: 100%;
+  padding: 0 28px;
+  text-align: center;
 }
