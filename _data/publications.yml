@@ -250,8 +250,68 @@
   journal: "Global and Planetary Change"
   doi: "10.1016/j.gloplacha.2022.103979"
 
-- authors: ""
+- authors: "**Torbenson**, M.C.A., Stagge, J.H."
   year: 2021
+  title: "Informing seasonal proxy-based flow reconstructions using baseflow separation: An example from the Potomac River, United States"
+  journal: "Water Resources Research"
+  doi: "10.1029/2020WR027706"
+
+- authors: "**Torbenson**, M.C.A., Stahle, D.W., Howard, I.M., Burnette, D.J., Griffin, D., Villanueva-Díaz, J., Cook, B.I."
+  year: 2021
+  title: "Drought relief and reversal over North America from 1500 to 2016"
+  journal: "Earth Interactions"
+  doi: "10.1175/EI-D-20-0020.1"
+
+- authors: "Howard, I.M, Stahle, D.W., **Torbenson**, M.C.A., Griffin, D."
+  year: 2021
+  title: "The summer precipitation response of latewood ring chronologies in the southwestern United States"
+  journal: "International Journal of Climatology"
+  doi: "10.1002/joc.6997"
+
+- authors: "Stahle, D.W., **Torbenson**, M.C.A., Howard, I., Granato-Souza, D., Barbosa, A.C., Feng, S., Schöngart, J., Lopez, L., Villalba, R., Villanueva, J."
+  year: 2020
+  title: "Pan American interactions of Amazon precipitation, streamflow, and tree growth extremes"
+  journal: "Environmental Research Letters"
+  doi: "10.1088/1748-9326/ababc6"
+
+- authors: "Stahle, D.W., Cook, E.R., Burnette, D.J., **Torbenson**, M.C.A., et al."
+  year: 2020
+  title: "Dynamics, variability, and change in seasonal precipitation reconstructions for North America"
+  journal: "Journal of Climate"
+  doi: "10.1175/JCLI-D-19-0270.1"
+
+- authors: "Granato-Souza, D., Stahle, D.W., **Torbenson**, M.C.A., Howard, I.M., Barbosa, A.C., Feng, S., Fernandes, K., Schöngart, J."
+  year: 2020
+  title: "Multi-decadal changes in wet season precipitation totals over the eastern Amazon"
+  journal: "Geophysical Research Letters"
+  doi: "10.1029/2020GL087478"
+
+- authors: "**Torbenson**, M.C.A., Stahle, D.W., Howard, I.M., Burnette, D.J., Villanueva-Díaz, J., Cook, E.R., Griffin, D."
+  year: 2019
+  title: "Multidecadal modulation of the ENSO teleconnection to precipitation and tree growth over subtropical North America"
+  journal: "Paleoceanography and Paleoclimatology"
+  doi: "10.1029/2018PA003510"
+
+- authors: "Stahle, D.W., Edmondson, J.R., Howard, I.M., Robbins, C.R., Griffin, D., Carl, A., Hall, C., Stahle, D.K., **Torbenson**, M.C.A."
+  year: 2019
+  title: "Longevity, climate sensitivity, and conservation status of wetland trees at Black River, North Carolina"
+  journal: "Environmental Research Communications"
+  doi: "10.1088/2515-7620/ab0c4a"
+
+- authors: "Granato-Souza, D., Stahle, D.W., Barbosa, A.C., Feng, S., **Torbenson**, M.C.A., de Assis Pereira, G., Schöngert, J., Barbosa, J.P., Griffin, D."
+  year: 2019
+  title: "Tree rings and climate in the equatorial Amazon"
+  journal: "Climate Dynamics"
+  doi: "10.1007/s00382-018-4227-y"
+
+- authors: "Barbosa, A.C., Stahle, D.W., Burnette, D.J., **Torbenson**, M.C.A., Cook, E.R., Bunkers, M.J., Garfin, G., Villalba, R."
+  year: 2019
+  title: "Landscape and meteorological factors associated with frost rings in bristlecone pine at Mt. Goliath, Colorado"
+  journal: "Tree-Ring Research"
+  doi: "10.3959/1536-1098-75.2.101"
+
+- authors: ""
+  year: 2018
   title: ""
   journal: ""
   doi: ""
