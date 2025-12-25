@@ -139,3 +139,16 @@ main .publications p {
 .publications li {
   margin-bottom: 1.2em;
 }
+footer {
+  border-top: 1px solid #eaeaea;
+  padding: 24px 0;
+  font-size: 0.9rem;
+  color: #777;
+}
+
+.footer-inner {
+  max-width: 720px;
+  margin: auto;
+  padding: 0 28px;
+  text-align: center;
+}
