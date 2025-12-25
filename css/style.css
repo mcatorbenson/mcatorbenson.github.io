@@ -128,3 +128,6 @@ img {
   text-align: left;
   margin-bottom: 1.2em;
 }
+main .publications li {
+  text-align: left;
+}
