@@ -70,12 +70,108 @@
   journal: "Journal of Hydrology"
   doi: "10.1016/j.jhydrol.2025.133508" 
 
+- authors: "Homfeld, I.K., Reinig, F., Martinez del Castillo, E., **Torbenson**, M.C.A., Konter, O., Wilson, R., Krusic, P.J., Loader, N.J., Grudd, H., Reid, E., Letherbarrow, K., Esper, J."
+  year: 2025
+  title: "Beyond maximum density: multi-parameter insights into Scots pine climate sensitivity"
+  journal: "Trees"
+  doi: "10.1007/s00468-025-02681-3" 
+
+- authors: "Guimarães-Pereira, L., Barbosa, A.C.M., Stahle, D.W., **Torbenson**, M.C.A., Granato-Souza, D., Farrapo, C.L., Gloor, E., Brienan, R., Boom, A."
+  year: 2025
+  title: "Strong ENSO forcing of wet season rainfall extremes in the eastern Amazon"
+  journal: "Geophysical Research Letters"
+  doi: "10.1029/2025GL116731" 
+
+- authors: "Groenendijk, P., et al."
+  year: 2025
+  title: "The potential of tree-ring records for global-change studies in the tropics: a quantitative assessment"
+  journal: "Quaternary Science Reviews"
+  doi: "10.1016/j.quascirev.2025.109233" 
+
+- authors: "Esper J., Reinig, F., **Torbenson**, M., Martinez del Castillo, E., Kunz, M., Arzac, A., Carrer, M., Chen, F., Kadioglu, A.K., Kirdyanov, A.V., Tejedor, E., Trnka, M., Büntgen, U."
+  year: 2025
+  title: "Pan-alpine summer temperatures since 742 CE"
+  journal: "Dendrochronologia"
+  doi: "10.1016/j.dendro.2025.126432" 
+
+- authors: "Bebchuk, T., Moir, A.K., Arosio, T., Kirdyanov, A.V., **Torbenson**, M.C.A., Krusic, P.J., Hindson, T.R., Howard, H., Buchwal, A., Norman, C.A.P., Büntgen, U."
+  year: 2025
+  title: "Taxus tree-ring chronologies from southern England reveal western European hydroclimate changes over the past three centuries"
+  journal: "Climate Dynamics"
+  doi: "10.1007/s00382-025-07601-2" 
+
+- authors: "Yue, W., Chen, F., **Torbenson**, M.C.A., Zhao, X., Zheng, Y., Xu, Y., Hu, M., Wang, S., Hou, T., Zhang, H., Chen, Y."
+  year: 2024
+  title: "Late Ming Dynasty weak monsoon induced a harmonized megadrought across north-to-south China"
+  journal: "Communications Earth & Environment"
+  doi: "10.1038/s43247-024-01602-5"
+  
+- authors: "Wieland, A., Römer, P., **Torbenson**, M.C.A., Greule, M., Urban, O., Čáslavský, J., Pernicová, N., Trnka, M., Büntgen, U., Esper, J., Keppler, F."
+  year: 2024
+  title: "Tree-ring stable isotopes in cellulose and lignin methoxy groups reveal different age-related behaviour"
+  journal: "Quaternary International"
+  doi: "10.1016/j.quaint.2024.02.004"
+  
 - authors: "**Torbenson**, M.C.A., et al."
   year: 2024
   title: "Past and future climate-driven changes of agricultural land in central Europe"
   journal: "Geophysical Research Letters"
   doi: "10.1029/2024GL112363"
 
+- authors: "Sung, K., **Torbenson**, M.C.A., Stagge, J.H."
+  year: 2024
+  title: "Assessing decadal to centennial scale nonstationary variability in meteorological drought trends"
+  journal: "Hydrology and Earth System Sciences"
+  doi: "10.5194/hess-28-2047-2024"
+  
+- authors: "Palosse, A., Piermattei, A., Esper, J., Reinig, F., Verstege, A., **Torbenson**, M., Trnka, M., Arosio, T., Büntgen, U."
+  year: 2024
+  title: "Temperature-induced germination pulses above the Alpine treeline"
+  journal: "Arctic, Antarctic, and Alpine Research"
+  doi: "10.1080/15230430.2024.2362447"
+  
+- authors: "Martinez del Castillo, E., **Torbenson**, M.C.A., Reinig, F., Tejedor, E., de Luis, M., Esper, J."
+  year: 2024
+  title: "Contrasting future growth of Norway spruce and Scots pine forests under warming climate"
+  journal: "Global Change Biology"
+  doi: "10.1111/gcb.17580"
+  
+- authors: "Martinez del Castillo, E., **Torbenson**, M.C.A., Reinig, F., Konter, O., Ziaco, E., Büntgen, U., Esper, J."
+  year: 2024
+  title: "Diverging growth trends and climate sensitivities of individual pine trees after the 1976 extreme drought"
+  journal: "Science of the Total Environment"
+  doi: "10.1016/j.scitotenv.2024.174370"
+  
+- authors: "Homfeld, I.K., Büntgen, U., Reinig, F., **Torbenson**, M.C.A., Esper, J."
+  year: 2024
+  title: "Application of RCS and signal-free RCS to tree-ring width and maximum latewood density data"
+  journal: "Dendrochronologia"
+  doi: "10.1016/j.dendro.2024.126205"
+  
+- authors: "Esper, J., **Torbenson**, M.C.A., Büntgen, U."
+  year: 2024
+  title: "2023 summer warmth unparalleled over the past 2,000 years"
+  journal: "Nature"
+  doi: "10.1038/s41586-024-07512-y"
+  
+- authors: "Büntgen, U., et al."
+  year: 2024
+  title: "Recent summer warming over the western Mediterranean region is unprecedented since medieval times"
+  journal: "Global and Planetary Change"
+  doi: "j.gloplacha.2023.104336"
+  
+- authors: "Blackstock, J.M., Owens, P.R., Moore, P.A., **Torbenson**, M.C.A., Ashworth, A.R., Anderson, K.R., Burgess-Conforti, J., Delhom, C.D."
+  year: 2024
+  title: "Spatiotemporal patterns of pH related to streamflow variability, drought conditions, and bedrock lithology in acid sensitive streams within a humid, subtropical catchment: Mulberry River, Arkansas, USA"
+  journal: "Journal of Hydrology - Regional Studies"
+  doi: "10.1016/j.ejrh.2024.101992"
+  
+- authors: "Arosio, T., **Torbenson**, M.C.A., Bebchuk, T., Kirdyanov, A., Esper, J., Nakatsuka, T., Sano, M., Urban, O., Nicolussi, K., Leuenberger, M., Büntgen, U."
+  year: 2024
+  title: "Methodological constrains of tree-ring stable isotope chronologies"
+  journal: "Quaternary Science Reviews"
+  doi: "10.1016/j.quascirev.2024.108861"
+  
 - authors: "**Torbenson**, M.C.A., Brázdil, R., Stagge, J.H., Esper, J., Büntgen, U., Vizina, A., Hanel, M., Rakovec, O., Fischer, M., Urban, O., Treml, V., Reinig, F., Martinez del Castillo, E., Rybníček, M., Kolář, T., Trnka, M."
   year: 2023
   title: "Increasing volatility of reconstructed Morava River warm-season flow, Czech Republic"
