@@ -177,7 +177,8 @@ footer {
   text-align: center;
 }
 
-.news-page {
+/* News page: left aligned */
+body.page-news main {
   text-align: left;
   hyphens: none;
 }
