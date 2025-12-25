@@ -24,10 +24,11 @@ body {
   position: sticky;
   top: 0;
   z-index: 1000;
+  background: #fff;
+  transition: box-shadow 0.3s ease;
   border-bottom: 1px solid #eaeaea;
 
-  background-image:
-    linear-gradient(
+      background-image: linear-gradient(
       rgba(255, 255, 255, 0.25),
       rgba(255, 255, 255, 0.25)
     ),
@@ -42,37 +43,37 @@ body {
    Header (title area)
    ========================= */
 
-.site-header header {
+header {
   padding: 60px 20px 40px;
   text-align: center;
-  transition: padding 0.3s ease;
+   
+  background: transparent;
+  
 }
 
-.site-header header h1 {
+header h1 {
   margin: 0;
   font-size: 5.2rem;
-  color: #111;
-  transition: font-size 0.3s ease;
 
-  /* white outline for readability */
-  text-shadow:
+    text-shadow:
     -2px -2px 0 #fff,
      2px -2px 0 #fff,
     -2px  2px 0 #fff,
      2px  2px 0 #fff;
 }
 
+header p {
+  margin-top: 10px;
+  color: #666;
+}
 
-/* =========================
-   Header shrink state
-   ========================= */
 
-.site-header.shrunk header {
-  padding: 18px 20px 14px;
+.site-header header h1 {
+  transition: transform 0.3s ease;
 }
 
 .site-header.shrunk header h1 {
-  font-size: 2.7rem;
+  transform: scale(0.78);
 }
 
 
@@ -80,7 +81,7 @@ body {
    Navigation
    ========================= */
 
-.site-header nav {
+nav {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -89,26 +90,37 @@ body {
   background: #fff;
 }
 
-.site-header nav a {
+nav a {
   text-decoration: none;
   color: #555;
   font-weight: 500;
   padding-bottom: 4px;
 }
 
-.site-header nav a:hover {
+nav a:hover {
   color: #000;
 }
 
-.site-header nav a.active {
+nav a.active {
   color: #000;
   border-bottom: 2px solid #000;
 }
 
 
 /* =========================
-   Main content
+   Header shrink state
    ========================= */
+
+.site-header header {
+  padding: 60px 20px 40px;
+  text-align: center;
+  transform-origin: top;
+  transition: transform 0.3s ease;
+}
+
+.site-header.shrunk header {
+  transform: scale(0.7);
+}
 
 main {
   max-width: 720px;
@@ -125,10 +137,12 @@ main img {
   margin: 24px auto;
 }
 
-
-/* =========================
-   Publications
-   ========================= */
+img {
+  max-width: 100%;
+}
+.publications {
+  margin-top: 32px;
+}
 
 .publications {
   margin-top: 32px;
@@ -144,6 +158,22 @@ main .publications p {
 
 .publications li {
   margin-bottom: 1.2em;
+}
+footer {
+  border-top: 1px solid #eaeaea;
+  padding: 24px 0;
+  font-size: 0.9rem;
+  color: #777;
+
+  display: flex;
+  justify-content: center;
+}
+
+.footer-inner {
+  max-width: 720px;
+  width: 100%;
+  padding: 0 28px;
+  text-align: center;
 }
 
 .pub-year-block {
@@ -171,23 +201,10 @@ details:not([open]) .pub-year::before {
   content: "▸ ";
 }
 
-
-/* =========================
-   Footer
-   ========================= */
-
-footer {
-  border-top: 1px solid #eaeaea;
-  padding: 24px 0;
-  font-size: 0.9rem;
-  color: #777;
-  display: flex;
-  justify-content: center;
+.publications {
+  padding-left: 1.8em;
 }
 
-.footer-inner {
-  max-width: 720px;
-  width: 100%;
-  padding: 0 28px;
-  text-align: center;
+.pub-item {
+  margin-bottom: 1.2em;
 }
