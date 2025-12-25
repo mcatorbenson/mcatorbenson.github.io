@@ -108,3 +108,10 @@ main img {
 img {
   max-width: 100%;
 }
+.publications {
+  margin-top: 32px;
+}
+
+.publications p {
+  margin-bottom: 1.5em;
+}
