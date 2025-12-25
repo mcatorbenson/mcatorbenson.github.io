@@ -4,7 +4,7 @@ title: Contact
 ---
 
 # Contact
-In the case of any questions or requests for the above papers in PDF format, please use one of the following ways to get in touch with me:
+In the case of any questions or requests for any previously published papers in PDF format, please use one of the following ways to get in touch with me:
 
 1. Email is the most reliable way to reach me (mtorbens (at) tamu.edu).
 2. [ResearchGate](https://www.researchgate.net/profile/Max-Torbenson)
