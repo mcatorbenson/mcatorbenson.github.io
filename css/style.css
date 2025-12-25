@@ -176,3 +176,8 @@ footer {
   padding: 0 28px;
   text-align: center;
 }
+
+.news-page {
+  text-align: left;
+  hyphens: none;
+}
