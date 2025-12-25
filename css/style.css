@@ -196,3 +196,7 @@ details:not([open]) .pub-year::before {
 .pub-item {
   margin-bottom: 1.2em;
 }
+.site-header h1 {
+  font-size: 4rem;
+  color: red;
+}
