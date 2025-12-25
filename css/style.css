@@ -198,5 +198,11 @@ details:not([open]) .pub-year::before {
 }
 .site-header h1 {
   font-size: 3.5rem;
+   color: #111;
 
+  text-shadow:
+    -1px -1px 0 #fff,
+     1px -1px 0 #fff,
+    -1px  1px 0 #fff,
+     1px  1px 0 #fff;
 }
