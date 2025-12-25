@@ -156,11 +156,33 @@ footer {
   text-align: center;
 }
 
+.pub-year-block {
+  margin-bottom: 2em;
+}
+
 .pub-year {
-  list-style: none;
-  margin: 1.8em 0 0.6em;
   font-weight: 600;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
+  cursor: pointer;
+  list-style: none;
+  margin-bottom: 0.6em;
+}
+
+.pub-year::-webkit-details-marker {
+  display: none;
+}
+
+.pub-year::before {
+  content: "▾ ";
+  font-size: 0.9em;
+}
+
+details:not([open]) .pub-year::before {
+  content: "▸ ";
+}
+
+.publications {
+  padding-left: 1.8em;
 }
 
 .pub-item {
