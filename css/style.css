@@ -43,7 +43,7 @@ header {
       rgba(255, 255, 255, 0.85),
       rgba(255, 255, 255, 0.85)
     ),
-    url("/assets/images/header.jpg");
+    url("../assets/images/header.jpg");
 
   background-size: cover;
   background-position: center;
