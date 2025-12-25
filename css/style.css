@@ -103,3 +103,19 @@ main img {
 main {
   text-align: justify;
 }
+
+.site-header {
+  transition: padding 0.3s ease, box-shadow 0.3s ease;
+}
+
+.site-header.shrunk header {
+  padding: 20px 20px 12px;
+}
+
+.site-header.shrunk header h1 {
+  font-size: 1.6rem;
+}
+
+.site-header.shrunk header p {
+  display: none;
+}
