@@ -2,6 +2,8 @@
 layout: default
 title: News
 ---
+<div class="news-page">
+
 ## News
 ### November 20th 2025: Paper published
 > A paper lead by Shijie Wang and Professor Feng Chen (Yunnan University), entitled **"Recent south-central Andes water crisis driven by Antarctic amplification is unprecedented over the last eight centuries"**, is now published with *Communications Earth & Environment* (accessible [here](https://www.nature.com/articles/s43247-025-02858-1/)).
@@ -17,3 +19,5 @@ title: News
 
 ### September 22nd 2025: Paper published
 > Inga Homfeld's (JGU Mainz) paper entitled **"Beyond maximum density: multi-parameter insights into Scots pine climate sensitivity"** has been published in the journal *Trees* and is available [here](https://link.springer.com/article/10.1007/s00468-025-02681-3).
+
+</div>
