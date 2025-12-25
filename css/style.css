@@ -190,3 +190,13 @@ main .news p {
   text-align: left;
   hyphens: none;
 }
+/* Global link styles */
+a {
+  color: #7a0019; /* Texas A&M–style maroon */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #5c0013;
+  text-decoration: underline;
+}
