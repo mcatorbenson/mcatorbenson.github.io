@@ -178,8 +178,56 @@
   journal: "Journal of Hydrology - Regional Studies"
   doi: "10.1016/j.ejrh.2023.101534"
 
-- authors: "**Torbenson**, M.C.A., et al."
-  year: 2024
-  title: "Past and future climate-driven changes of agricultural land in central Europe"
-  journal: "Geophysical Research Letters"
-  doi: "10.1029/2024GL112363"
+- authors: "**Torbenson**, M.C.A., Büntgen, U., Esper, J., Urban, O., Balek, J., Reinig, F., Krusic, P.J., Martinez del Castillo, E., Brázdil, R., Semerádová, D., Štěpánek, P., Pernicová, N., Kolář, T., Rybníček, M., Koňasová, E., Arbelaez, J., Trnka, M."
+  year: 2023
+  title: "Central European agroclimate over the past 2,000 years"
+  journal: "Journal of Climate"
+  doi: "10.1175/JCLI-D-22-0831.1"
+
+- authors: "**Torbenson**, M.C.A., Stahle, D.W., Howard, I.M., Blackstock, J.M., Cleaveland, M.K., Stagge, J.H."
+  year: 2023
+  title: "Pre‐instrumental perspectives on Arkansas River cross‐watershed flow variability"
+  journal: "Journal of the American Water Resources Association"
+  doi: "10.1111/1752-1688.13068"
+
+- authors: "**Torbenson**, M.C.A., Büntgen, U., Römer, P., Urban, O., Trnka, M., Ač, A., Reinig, F., Rybníček, M., Kolář, T., Arosio, T., Martinez del Castillo, E., Koňasová, E., Pernicová, N., Čáslavský, J., Esper, J."
+  year: 2023
+  title: "Assessing earlywood-latewood proportion influence on tree-ring stable isotopes"
+  journal: "Dendrochronologia"
+  doi: "10.1016/j.dendro.2023.126147"
+
+- authors: "Stagge, J.H., **Torbenson**, M.C.A., Sung, K., Phillips, B., Kingston, D."
+  year: 2023
+  title: "Orographic amplification of El Niño teleconnections on winter precipitation across the Intermountain West of North America"
+  journal: "Nature Water"
+  doi: "10.1038/s44221-023-00163-9"
+
+- authors: "Howard, I.M., Stahle, D.W., **Torbenson**, M.C.A., Granato-Souza, D., Poulsen, C."
+  year: 2023
+  title: "The flood risk and water supply implications of seasonal precipitation reconstructions in northern California"
+  journal: "San Francisco Estuary and Watershed Science"
+  doi: "10.15447/sfews.2023v21iss1art2"
+
+- authors: "Howard, I.M., Stahle, D.W., Dettinger, M.D., Poulsen, C., Ralph, F.M., **Torbenson**, M.C.A., Gershunov, A."
+  year: 2023
+  title: "A 440-Year Reconstruction of Heavy Precipitation in California from Blue Oak Tree Rings"
+  journal: "Journal of Hydrometeorology"
+  doi: "10.1175/JHM-D-22-0062.1"
+
+- authors: "Harr, L., Sinsel, T., Simon, H., **Torbenson**, M.C.A., Esper, J."
+  year: 2023
+  title: "Mobile measurements for distribution and attribution of particulate matter in urban environments"
+  journal: "Atmospheric Environment"
+  doi: "10.1016/j.atmosenv.2023.120164"
+
+- authors: "Büntgen, U., Oppenheimer, C., Li, P., Frachetti, M., Esper, J., **Torbenson**, M.C.A., Krusic, P.J."
+  year: 2023
+  title: "Drought as a trigger of the rapid rise of professional skateboarding in 1970s Southern California"
+  journal: "PNAS Nexus"
+  doi: "10.1093/pnasnexus/pgad395"
+
+- authors: ""
+  year: 2022
+  title: ""
+  journal: ""
+  doi: ""
