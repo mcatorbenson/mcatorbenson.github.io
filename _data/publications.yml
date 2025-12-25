@@ -226,8 +226,32 @@
   journal: "PNAS Nexus"
   doi: "10.1093/pnasnexus/pgad395"
 
-- authors: ""
+- authors: "Zuidema, P., et al."
   year: 2022
+  title: "Tropical tree growth driven by dry-season climate variability"
+  journal: "Nature Geoscience"
+  doi: "10.1038/s41561-022-00911-8"
+
+- authors: "**Torbenson**, M.C.A.,  Klippel, L., Hartl, C., Reinig, F., Treydte, K., Büntgen, U., Trnka, M., Schöne, B., Schneider, L., Esper, J."
+  year: 2022
+  title: "Investigation of age trends in tree-ring stable carbon and oxygen isotopes from northern Fennoscandia over the past millennium"
+  journal: "Quaternary International"
+  doi: "10.1016/j.quaint.2022.05.017"
+
+- authors: "Büntgen, U., et al."
+  year: 2022
+  title: "Global wood anatomical perspective on the onset of the Late Antique Little Ice Age (LALIA) in the mid-6th century CE"
+  journal: "Science Bulletin"
+  doi: "10.1016/j.scib.2022.10.019"
+
+- authors: "Büntgen, U., Piermattei, A., Crivellaro, A., Reinig, F., Krusic, P.J., Trnka, M., **Torbenson**, M., Esper, J."
+  year: 2022
+  title: "Common Era treeline fluctuations and their implications for climate reconstructions"
+  journal: "Global and Planetary Change"
+  doi: "10.1016/j.gloplacha.2022.103979"
+
+- authors: ""
+  year: 2021
   title: ""
   journal: ""
   doi: ""
