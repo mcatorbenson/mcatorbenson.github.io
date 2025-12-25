@@ -30,3 +30,164 @@ body {
     linear-gradient(
       rgba(255, 255, 255, 0.25),
       rgba(255, 255, 255, 0.25)
+    ),
+    url("../assets/images/PANO_20220711_173845.jpg");
+
+  background-size: cover;
+  background-position: center;
+}
+
+
+/* =========================
+   Header (title area)
+   ========================= */
+
+.site-header header {
+  padding: 60px 20px 40px;
+  text-align: center;
+  transition: padding 0.3s ease;
+}
+
+.site-header header h1 {
+  margin: 0;
+  font-size: 5.2rem;
+  color: #111;
+  transition: font-size 0.3s ease;
+
+  /* white outline for readability */
+  text-shadow:
+    -2px -2px 0 #fff,
+     2px -2px 0 #fff,
+    -2px  2px 0 #fff,
+     2px  2px 0 #fff;
+}
+
+
+/* =========================
+   Header shrink state
+   ========================= */
+
+.site-header.shrunk header {
+  padding: 18px 20px 14px;
+}
+
+.site-header.shrunk header h1 {
+  font-size: 2.7rem;
+}
+
+
+/* =========================
+   Navigation
+   ========================= */
+
+.site-header nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+  padding: 16px;
+  background: #fff;
+}
+
+.site-header nav a {
+  text-decoration: none;
+  color: #555;
+  font-weight: 500;
+  padding-bottom: 4px;
+}
+
+.site-header nav a:hover {
+  color: #000;
+}
+
+.site-header nav a.active {
+  color: #000;
+  border-bottom: 2px solid #000;
+}
+
+
+/* =========================
+   Main content
+   ========================= */
+
+main {
+  max-width: 720px;
+  margin: auto;
+  padding: 48px 28px;
+  text-align: justify;
+  hyphens: auto;
+}
+
+main img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 24px auto;
+}
+
+
+/* =========================
+   Publications
+   ========================= */
+
+.publications {
+  margin-top: 32px;
+  padding-left: 1.8em;
+}
+
+main .publications,
+main .publications li,
+main .publications p {
+  text-align: left;
+  hyphens: none;
+}
+
+.publications li {
+  margin-bottom: 1.2em;
+}
+
+.pub-year-block {
+  margin-bottom: 2em;
+}
+
+.pub-year {
+  font-weight: 600;
+  font-size: 1.2rem;
+  cursor: pointer;
+  list-style: none;
+  margin-bottom: 0.6em;
+}
+
+.pub-year::-webkit-details-marker {
+  display: none;
+}
+
+.pub-year::before {
+  content: "▾ ";
+  font-size: 0.9em;
+}
+
+details:not([open]) .pub-year::before {
+  content: "▸ ";
+}
+
+
+/* =========================
+   Footer
+   ========================= */
+
+footer {
+  border-top: 1px solid #eaeaea;
+  padding: 24px 0;
+  font-size: 0.9rem;
+  color: #777;
+  display: flex;
+  justify-content: center;
+}
+
+.footer-inner {
+  max-width: 720px;
+  width: 100%;
+  padding: 0 28px;
+  text-align: center;
+}
