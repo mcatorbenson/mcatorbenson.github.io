@@ -2,4 +2,9 @@
 layout: default
 title: About
 ---
-  <p>Publications go here.</p>
+{% for pub in site.data.publications %}
+**{{ pub.authors }}** ({{ pub.year }}).  
+*{{ pub.title }}*.  
+{{ pub.journal }}{% if pub.doi %}. DOI: {{ pub.doi }}{% endif %}
+
+{% endfor %}
