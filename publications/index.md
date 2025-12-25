@@ -1,8 +1,8 @@
 ---
 layout: default
-title: About
+title: Publications
 ---
-<h2>Welcome</h2>
+<h2>Publications</h2>
 {% for pub in site.data.publications %}
 **{{ pub.authors }}** ({{ pub.year }}).  
 *{{ pub.title }}*.  
