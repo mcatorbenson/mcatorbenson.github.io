@@ -27,6 +27,15 @@ body {
   background: #fff;
   transition: box-shadow 0.3s ease;
   border-bottom: 1px solid #eaeaea;
+
+      background-image: linear-gradient(
+      rgba(255, 255, 255, 0.85),
+      rgba(255, 255, 255, 0.85)
+    ),
+    url("../assets/images/PANO_20220711_173845.jpg");
+
+  background-size: cover;
+  background-position: center;
 }
 
 
@@ -39,14 +48,6 @@ header {
   text-align: center;
   transition: padding 0.3s ease;
   
-   background-image: linear-gradient(
-      rgba(255, 255, 255, 0.85),
-      rgba(255, 255, 255, 0.85)
-    ),
-    url("../assets/images/PANO_20220711_173845.jpg");
-
-  background-size: cover;
-  background-position: center;
 }
 
 header h1 {
