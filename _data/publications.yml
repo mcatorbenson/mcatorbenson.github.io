@@ -1,3 +1,27 @@
+- authors: "Zuidema, P., et al."
+  year: 2025
+  title: "Pantropical tree rings show small effects of drought on stem growth"
+  journal: "Science"
+  doi: "10.1126/science.adq6607"
+
+- authors: "Wang, S., Hu, M., Chen, F., Zhao, X., Hadad, M., Roig, F., Meko, D, **Torbenson**, M., Piraino, S., Zhang, Y., Xu, Y., Chen, Y., Yue, W., Cao, H."
+  year: 2025
+  title: "Recent south-central Andes water crisis driven by Antarctic amplification is unprecedented over the last eight centuries"
+  journal: "Communications Earth & Environment"
+  doi: "10.1038/s43247-025-02858-1"
+
+- authors: "Wang, S., Chen, F., Chen, Y., **Torbenson**, M.C.A., Esper, J., Zhao, X., Hu, M., Zhang, H., Yue, W., Cao, H."
+  year: 2025
+  title: "Greening of Eurasia’s center driven by low-latitude climate warming"
+  journal: "Forest Ecosystems"
+  doi: "10.1016/j.fecs.2025.100330"
+
+- authors: "Vlach, M., Komoróczy, B., **Torbenson**, M.C.A., Esper, J., Brázdil, R., Büntgen, U., Semerádová, D., Urban, O., Balek, J., Kolář, T., Rybníček, M., Trnka, M."
+  year: 2025
+  title: "Climate variability and Germanic settlement dynamics in the Middle Danube region during the Roman Period (1st-4th century CE)"
+  journal: "PLOS One"
+  doi: "10.1371/journal.pone.0325139"
+  
 - authors: "**Torbenson**, M.C.A., Stagge, J.H., Chen, F., Ziaco, E., Esper, J."
   year: 2025
   title: "Adjusting the significance of daily climate responses in tree-ring proxies"
@@ -27,3 +51,9 @@
   title: "Increasing volatility of reconstructed Morava River warm-season flow, Czech Republic"
   journal: "Journal of Hydrology - Regional Studies"
   doi: "10.1016/j.ejrh.2023.101534"
+
+- authors: "**Torbenson**, M.C.A., et al."
+  year: 2024
+  title: "Past and future climate-driven changes of agricultural land in central Europe"
+  journal: "Geophysical Research Letters"
+  doi: "10.1029/2024GL112363"
