@@ -24,14 +24,8 @@ body {
   position: sticky;
   top: 0;
   z-index: 1000;
-  border-bottom: 1px solid #eaeaea;
-
-  background-image:
-    linear-gradient(
-      rgba(255, 255, 255, 0.25),
-      rgba(255, 255, 255, 0.25)
-    ),
-    url("../assets/images/PXL_20240822_091532192.PANO.jpg");
+  background: #7a0019; /* maroon / dark red */
+  border-bottom: 1px solid #5c0013;
 
   background-size: cover;
   background-position: center;
