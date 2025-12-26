@@ -11,6 +11,6 @@ title: Gallery
   </a>
 
   <a href="/assets/images/IMG_20220712_095029.jpg" class="lightbox">
-    <img src="/assets/images/IMG_20220712_095029.jpg" alt="Alaska">
+    <img src="/assets/images/PXL_20230613_045942257.jpg" alt="Japan">
   </a>
 </div>
