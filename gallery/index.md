@@ -5,6 +5,6 @@ title: Gallery
 # Gallery
 
 <div class="image-grid">
-  <img src="/assets/images/gall1.jpg" alt="Description 1">
-  <img src="/assets/images/gall2.jpg" alt="Description 2">
+  <img src="/assets/images/PXL_20230813_044636196.jpg" alt="Kyrgyzstan">
+  <img src="/assets/images/IMG_20220712_095029.jpg" alt="Alaska">
 </div>
