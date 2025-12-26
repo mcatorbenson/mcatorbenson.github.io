@@ -35,5 +35,6 @@ title: News
 <a href="../assets/temp/hom25TREES.png" class="lightbox">
     <img src="../assets/temp/hom25TREES.png" alt="Homfeld 2025 - Trees">
 </a>
+
 > Inga Homfeld's (JGU Mainz) paper entitled **"Beyond maximum density: multi-parameter insights into Scots pine climate sensitivity"** has been published in the journal *Trees* and is available [here](https://link.springer.com/article/10.1007/s00468-025-02681-3).
 
