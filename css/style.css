@@ -49,12 +49,7 @@ body {
   font-size: 3.1rem;
   color: #fff;
 
-  /* white outline for contrast */
-  text-shadow:
-    -1px -1px 0 #fff,
-     1px -1px 0 #fff,
-    -1px  1px 0 #fff,
-     1px  1px 0 #fff;
+
 }
 
 
