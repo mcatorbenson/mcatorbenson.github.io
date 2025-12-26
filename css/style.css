@@ -26,10 +26,13 @@ body {
   z-index: 1000;
   background: #7a0019; /* maroon / dark red */
   border-bottom: 1px solid #5c0013;
+   
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
 
   background-size: cover;
   background-position: center;
 }
+
 
 
 /* =========================
