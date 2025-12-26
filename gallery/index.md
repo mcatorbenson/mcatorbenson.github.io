@@ -4,6 +4,8 @@ title: Gallery
 ---
 # Gallery
 
+Below are some non-exhaustive examples of photos from recent fieldwork expeditions. The list will be expanded.
+
 <div class="image-grid">
 
   <a href="/assets/images/nam1.jpg" class="lightbox">
