@@ -35,4 +35,12 @@ Below is a non-exhaustive list of photos from recent fieldwork expeditions. This
   <a href="/assets/images/ala1.jpg" class="lightbox">
     <img src="/assets/images/ala1.jpg" alt="Alaska, July 2022">
   </a>
+
+  <a href="/assets/images/mx1.jpg" class="lightbox">
+    <img src="/assets/images/mx1.jpg" alt="Mexico, July 2015">
+  </a>
+  
+  <a href="/assets/images/or1.jpg" class="lightbox">
+    <img src="/assets/images/or1.jpg" alt="Oregon, July 2012">
+  </a>
 </div>
