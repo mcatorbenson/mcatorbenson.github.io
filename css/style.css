@@ -254,8 +254,8 @@ a:hover {
   margin-right: calc(50% - 50vw);
 
   /* tighter vertical spacing */
-  margin-top: 1.5rem;
-  margin-bottom: 1.5rem;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
 
   /* limit height */
   height: 70px;   /* ~50% of a typical break image */
@@ -272,7 +272,7 @@ a:hover {
   mask-image: linear-gradient(
     to bottom,
     transparent,
-    black 20%,
+    black 10%,
     black 80%,
     transparent
   );
