@@ -31,7 +31,7 @@ Science only progresses through work based on the ideas of others, and only prog
 
 </div>
 
-I am always open to explore avenues of joint research, please do not hesitate to contact me if you believe our interests align.
+I am always open to exploring new avenues of joint studies, please do not hesitate to contact me if you believe our research interests align.
 
 <div class="full-width-break">
   <img src="../assets/images/break1.png" alt="">
