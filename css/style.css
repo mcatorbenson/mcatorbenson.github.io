@@ -124,7 +124,7 @@ main .publications p {
 }
 
 .pub-year-block {
-  margin-bottom: 2em;
+  margin-bottom: 0.8em;
 }
 
 .pub-year {
@@ -132,7 +132,7 @@ main .publications p {
   font-size: 1.2rem;
   cursor: pointer;
   list-style: none;
-  margin-bottom: 0.6em;
+  margin-bottom: 0.3em;
 }
 
 .left-blurb {
