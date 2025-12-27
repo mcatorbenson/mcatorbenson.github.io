@@ -200,17 +200,24 @@ a:hover {
 
 .image-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 4px;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 8px;
   margin: 16px 0;
+}
+
+.image-grid a {
+  display: block;
+  width: 100%;
 }
 
 .image-grid img {
   width: 100%;
-  height: 240px;           /* forces same visual size */
-  object-fit: cover;       /* crops instead of stretching */
-  border-radius: 4px;
+  height: auto;
+  aspect-ratio: 4 / 3; /* 4:3 grid boxes */
+  object-fit: cover;
+  display: block;
 }
+
 
 /* =========================
    Lightbox
@@ -282,10 +289,6 @@ a:hover {
   );
 }
 
-.image-grid a {
-  display: block;
-  line-height: 0;
-}
 
 .collab-page img {
   border: 1px solid #fff;
