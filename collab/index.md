@@ -12,11 +12,8 @@ Science only progresses through work based on the ideas of others, and only prog
     <img src="/assets/images/jgu.png" alt="">
   </a>
 
-  <a href="/assets/images/chn1.jpg" class="lightbox">
-    <img src="/assets/images/chn1.jpg" alt="China, October 2025">
+  <a href="https://www.geog.cam.ac.uk/people/buentgen/"">
+    <img src="/assets/images/camb.jpg" alt="">
   </a>
 
-  <a href="/assets/images/chn2.jpg" class="lightbox">
-    <img src="/assets/images/chn2.jpg" alt="China, August 2024">
-  </a>
 </div>
