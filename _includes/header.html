@@ -20,11 +20,6 @@
      {% if page.url == '/news/' %}class="active"{% endif %}>
     News
   </a>
-        
-  <a href="{{ '/publications/' | relative_url }}"
-     {% if page.url == '/publications/' %}class="active"{% endif %}>
-    Publications
-  </a>
     
   <a href="{{ '/collab/' | relative_url }}"
      {% if page.url == '/collab/' %}class="active"{% endif %}>
@@ -35,7 +30,12 @@
      {% if page.url == '/projects/' %}class="active"{% endif %}>
     Projects
   </a>
-
+        
+  <a href="{{ '/publications/' | relative_url }}"
+     {% if page.url == '/publications/' %}class="active"{% endif %}>
+    Publications
+  </a>
+    
   <a href="{{ '/gallery/' | relative_url }}"
      {% if page.url == '/gallery/' %}class="active"{% endif %}>
     Gallery
