@@ -201,7 +201,7 @@ a:hover {
 .image-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 16px;
+  gap: 8px;
   margin: 32px 0;
 }
 
