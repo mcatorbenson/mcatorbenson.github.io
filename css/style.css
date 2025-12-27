@@ -201,26 +201,18 @@ a:hover {
 .image-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 8px;
+  gap: 6px;
   margin: 16px 0;
 }
 
-.image-grid a {
-  display: block;
-  width: 100%;
-}
-
 .image-grid img {
   width: 100%;
-  height: auto;
-  aspect-ratio: 1 / 1; /* 4:3 grid boxes */
+  height: 220px;
   object-fit: cover;
   display: block;
+  margin: 0 !important; /* THIS FIXES THE GAP */
 }
 
-.image-grid img {
-  margin: 0 !important;
-}
 
 /* =========================
    Lightbox
