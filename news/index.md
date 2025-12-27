@@ -11,9 +11,6 @@ title: News
 
 > A paper lead by Shijie Wang and Professor Feng Chen (Yunnan University), entitled **"Recent south-central Andes water crisis driven by Antarctic amplification is unprecedented over the last eight centuries"**, is now published with *Communications Earth & Environment* (accessible [here](https://www.nature.com/articles/s43247-025-02858-1/)).
 
-<div class="full-width-break">
-  <img src="../assets/images/break1.png" alt="">
-</div>
 
 ### October 13th, 2025: Paper published
 <a href="../assets/temp/esper25DENDRO.png" class="lightbox">
@@ -22,9 +19,6 @@ title: News
 
 > **"Pan-alpine summer temperatures since 742 CE"** by Professor Jan Esper (JGU Mainz) and others has been [published](https://www.sciencedirect.com/science/article/pii/S1125786525001468) in *Dendrochronologia*.
 
-<div class="full-width-break">
-  <img src="../assets/images/break1.png" alt="">
-</div> 
 
 ### October 13th, 2025: Pre-print available
 <a href="../assets/temp/albaP1.png" class="lightbox">
@@ -33,9 +27,6 @@ title: News
 
 > A pre-print entitled **"Unlocking the potential of pollarded oaks: A 375–year hydroclimate reconstruction from northcentral Spain"** lead by Dr. Alba Sanmiguel-Vallelado (Universidad de Valladolid) has been posted on EGUsphere, and can be accessed [here](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-4494).
 
-<div class="full-width-break">
-  <img src="../assets/images/break1.png" alt="">
-</div> 
 
 ### September 22nd, 2025: Paper published
 <a href="../assets/temp/hom25TREES.png" class="lightbox">
