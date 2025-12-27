@@ -297,3 +297,7 @@ a:hover {
   background: white;
 }
 
+.image-grid a {
+  display: block;
+  line-height: 0;
+}
