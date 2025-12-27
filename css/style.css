@@ -284,23 +284,25 @@ a:hover {
   background: #fff;
 }
 
-/* Collab page: logo grid normalization */
+/* Collab page logo grid */
 .collab-page .image-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
   gap: 24px;
 }
 
+/* Center logos vertically & horizontally */
 .collab-page .image-grid a,
 .collab-page .image-grid div {
   display: flex;
-  align-items: center;   /* vertical centering */
+  align-items: center;
   justify-content: center;
 }
 
+/* Normalize WIDTH, allow height to vary */
 .collab-page .image-grid img {
-  max-height: 90px;      /* controls visual uniformity */
-  width: auto;
+  width: 120px;        /* 👈 uniform width */
+  height: auto;        /* preserve aspect ratio */
   max-width: 100%;
   object-fit: contain;
 }
