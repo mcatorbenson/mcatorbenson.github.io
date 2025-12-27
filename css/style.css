@@ -258,7 +258,7 @@ a:hover {
   margin-bottom: 1.5rem;
 
   /* limit height */
-  height: 140px;   /* ~50% of a typical break image */
+  height: 70px;   /* ~50% of a typical break image */
   overflow: hidden;
 }
 
