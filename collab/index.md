@@ -13,7 +13,7 @@ Science only progresses through work based on the ideas of others, and only prog
   </a>
 
   <a href="https://www.geog.cam.ac.uk/people/buentgen/">
-    <img src="/assets/images/camb.jpg" alt="">
+    <img src="/assets/images/camb.png" alt="">
   </a>
 
 </div>
