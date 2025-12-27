@@ -284,10 +284,23 @@ a:hover {
   background: #fff;
 }
 
-/* Only affects collab page */
-.collab-page .image-grid img.logo-full {
+/* Collab page: logo grid normalization */
+.collab-page .image-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 24px;
+}
+
+.collab-page .image-grid a,
+.collab-page .image-grid div {
+  display: flex;
+  align-items: center;   /* vertical centering */
+  justify-content: center;
+}
+
+.collab-page .image-grid img {
+  max-height: 90px;      /* controls visual uniformity */
+  width: auto;
+  max-width: 100%;
   object-fit: contain;
-  width: 100%;
-  height: auto;
-  max-height: none;
 }
