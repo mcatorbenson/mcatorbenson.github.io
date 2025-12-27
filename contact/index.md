@@ -11,3 +11,7 @@ In the case of any questions or requests for previously published papers as PDFs
 3. My office (706C) is located in the Eller Oceanography and Meteorology building at the Texas A&M University campus, College Station.
 
 I am currently not accepting graduate students for 2026, but please look out for announcements in the future.
+
+<div class="full-width-break">
+  <img src="../assets/images/break1.png" alt="">
+</div>
