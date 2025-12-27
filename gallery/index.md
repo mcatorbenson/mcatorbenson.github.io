@@ -32,6 +32,10 @@ Below is a non-exhaustive list of photos from prior fieldwork expeditions. This 
     <img src="/assets/images/jap1.jpg" alt="Japan, June 2023">
   </a>
 
+  <a href="/assets/images/swe2.png" class="lightbox">
+    <img src="/assets/images/swe2.png" alt="Southern Sweden, January 2023">
+  </a>
+
   <a href="/assets/images/swe1.jpg" class="lightbox">
     <img src="/assets/images/swe1.jpg" alt="Northern Sweden, September 2022">
   </a>
