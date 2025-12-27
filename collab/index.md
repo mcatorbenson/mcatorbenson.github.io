@@ -10,7 +10,7 @@ Science only progresses through work based on the ideas of others, and only prog
 <div class="image-grid">
 
   <a href="https://www.climatology.uni-mainz.de/">
-    <img src="/assets/images/jgu.png" alt=""  class="logo-full>
+    <img src="/assets/images/jgu.png" alt="">
   </a>
 
   <a href="https://www.geog.cam.ac.uk/people/buentgen/">
@@ -18,7 +18,7 @@ Science only progresses through work based on the ideas of others, and only prog
   </a>
   
   <a href="https://www.czechglobe.cz/en/">
-    <img src="/assets/images/czech.png" alt="" class="logo-full">
+    <img src="/assets/images/czech.png" alt="">
   </a>
 
 </div>
