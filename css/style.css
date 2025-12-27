@@ -213,11 +213,14 @@ a:hover {
 .image-grid img {
   width: 100%;
   height: auto;
-  aspect-ratio: 4 / 3; /* 4:3 grid boxes */
+  aspect-ratio: 1 / 1; /* 4:3 grid boxes */
   object-fit: cover;
   display: block;
 }
 
+.image-grid img {
+  margin: 0 !important;
+}
 
 /* =========================
    Lightbox
