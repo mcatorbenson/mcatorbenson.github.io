@@ -278,3 +278,8 @@ a:hover {
   );
 }
 
+main img {
+  border: 1px solid #000;
+  padding: 2px;
+  background: #fff;
+}
