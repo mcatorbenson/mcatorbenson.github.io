@@ -20,6 +20,10 @@ Below is a non-exhaustive list of photos from prior fieldwork expeditions. This 
     <img src="/assets/images/chn2.jpg" alt="China, August 2024">
   </a>
   
+  <a href="/assets/images/fra1.jpg" class="lightbox">
+    <img src="/assets/images/fra1.jpg" alt="French Alps, July 2024">
+  </a>
+  
   <a href="/assets/images/kyrg1.jpg" class="lightbox">
     <img src="/assets/images/kyrg1.jpg" alt="Kyrgyzstan, August 2023">
   </a>
@@ -34,10 +38,6 @@ Below is a non-exhaustive list of photos from prior fieldwork expeditions. This 
 
   <a href="/assets/images/ala1.jpg" class="lightbox">
     <img src="/assets/images/ala1.jpg" alt="Alaska, July 2022">
-  </a>
-
-  <a href="/assets/images/mx1.jpg" class="lightbox">
-    <img src="/assets/images/mx1.jpg" alt="Mexico, July 2015">
   </a>
   
   <a href="/assets/images/or1.jpg" class="lightbox">
