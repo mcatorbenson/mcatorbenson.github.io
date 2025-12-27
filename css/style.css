@@ -95,6 +95,10 @@ main {
   hyphens: auto;
 }
 
+main > :first-child {
+  margin-top: 0;
+}
+
 main img {
   max-width: 100%;
   height: auto;
