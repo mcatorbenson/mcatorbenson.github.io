@@ -268,3 +268,13 @@ a:hover {
   object-fit: cover;
   display: block;
 }
+.full-width-break img {
+  mask-image: linear-gradient(
+    to bottom,
+    transparent,
+    black 20%,
+    black 80%,
+    transparent
+  );
+}
+
