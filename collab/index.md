@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Collaborations
+body_class: collab-page
 ---
 
 # Collaborations
