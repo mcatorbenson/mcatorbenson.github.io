@@ -248,3 +248,16 @@ a:hover {
   max-width: 90%;
   text-align: center;
 }
+.full-width-break {
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+.full-width-break img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
