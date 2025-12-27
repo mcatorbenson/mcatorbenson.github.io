@@ -310,3 +310,7 @@ a:hover {
   max-width: 100%;
   object-fit: contain;
 }
+
+.image-grid a {
+  align-self: start;
+}
