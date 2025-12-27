@@ -282,6 +282,11 @@ a:hover {
   );
 }
 
+.image-grid a {
+  display: block;
+  line-height: 0;
+}
+
 .collab-page img {
   border: 1px solid #fff;
   padding: 2px;
@@ -290,14 +295,14 @@ a:hover {
 
 /* Collab page logo grid */
 .collab-page .image-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
-  gap: 24px;
-  object-fit: contain;
-  background: white;
+  display: flex;
+  align-items: center;      /* vertical centering */
+  justify-content: center;  /* horizontal centering */
+}
+.collab-page .image-grid img {
+  width: 180px;        /* same width for all logos */
+  height: auto;        /* allow height to vary */
+  max-height: 120px;   /* prevents tall logos from blowing up rows */
+  object-fit: contain; /* SHOW FULL LOGO */
 }
 
-.image-grid a {
-  display: block;
-  line-height: 0;
-}
