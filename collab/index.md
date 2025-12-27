@@ -22,3 +22,7 @@ Science only progresses through work based on the ideas of others, and only prog
   </a>
 
 </div>
+
+<div class="full-width-break">
+  <img src="../assets/images/break1.png" alt="">
+</div>
