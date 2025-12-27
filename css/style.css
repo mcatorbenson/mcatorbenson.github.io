@@ -301,8 +301,8 @@ a:hover {
 
 /* Normalize WIDTH, allow height to vary */
 .collab-page .image-grid img {
-  width: 120px;        /* 👈 uniform width */
-  height: auto;        /* preserve aspect ratio */
+  width: 160px;        
+  height: auto;       
   max-width: 100%;
   object-fit: contain;
 }
