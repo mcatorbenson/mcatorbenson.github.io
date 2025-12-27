@@ -44,3 +44,7 @@ Below is a non-exhaustive list of photos from prior fieldwork expeditions. This 
     <img src="/assets/images/or1.jpg" alt="Oregon, July 2012">
   </a>
 </div>
+
+<div class="full-width-break">
+  <img src="../assets/images/break1.png" alt="">
+</div>
