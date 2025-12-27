@@ -16,5 +16,9 @@ Science only progresses through work based on the ideas of others, and only prog
   <a href="https://www.geog.cam.ac.uk/people/buentgen/">
     <img src="/assets/images/camb.png" alt="">
   </a>
+  
+  <a href="https://www.czechglobe.cz/en/">
+    <img src="/assets/images/czech.png" alt="">
+  </a>
 
 </div>
