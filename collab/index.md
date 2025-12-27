@@ -18,7 +18,7 @@ Science only progresses through work based on the ideas of others, and only prog
   </a>
   
   <a href="https://www.czechglobe.cz/en/">
-    <img src="/assets/images/czech.png" alt="" class="logo-full">>
+    <img src="/assets/images/czech.png" alt="" class="logo-full">
   </a>
 
 </div>
