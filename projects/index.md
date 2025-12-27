@@ -12,3 +12,7 @@ An underlying assumption in paleoclimate reconstruction exercises is a time-stab
 
 ### Understanding temperature influence on tree growth
 An underlying assumption in paleoclimate reconstruction exercises is a time-stable relationship between predictor (e.g., tree rings) and predictand/target (e.g., precipitation or temperature). Because the relationship between climate and tree growth is undoubtedly dictated (at least in part) by Leibig's law of minimum, it is likely that the limiting factor has changed over time. The "divergence problem" in dendroclimatology refers - somewhat simplified - to the disconnect of temperature as the main driver of tree-growth at high altitude/latitude sites, as general temperatures increase. Although many studies on this subject have been presented, the full ramifications on paleoclimate reconstructions (and possible solutions) are still not clear. As part of the international MONOSTAR team, lead by Dr. Jan Esper, I hope to help make progress in this important area of long-term climatology. These questions tie into larger paleoclimate themes of noise, uncertainty estimates, and the potential of non-linear signals - which has often been points of focus in my previous research. One of the tools available to us for understanding tree growth and its relation to external (climatic) factors is tree-growth models. My work at Mainz will revolve around applying such models to new data produced by the MONOSTAR project.
+
+<div class="full-width-break">
+  <img src="../assets/images/break1.png" alt="">
+</div>
