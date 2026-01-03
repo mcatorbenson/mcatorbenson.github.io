@@ -4,6 +4,14 @@ title: News
 ---
 
 # News
+### January 3rd, 2026: Paper published
+<a href="../assets/temp/yue26AGUA.png" class="lightbox">
+    <img src="../assets/temp/yue26AGUA.png" alt="Yue 2026 - AGU Advances">
+</a>
+
+> A paper lead by Weipeng Yue and Professor Feng Chen (Yunnan University), entitled **"Runoff Reconstructions and Future Projections Indicate Highly Variable Water Supply From Pacific Rim Water Towers"**, is now published with *AGU Advances* (accessible [here](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025AV002053)).
+
+
 ### November 20th, 2025: Paper published
 <a href="../assets/temp/wang25CEE.png" class="lightbox">
     <img src="../assets/temp/wang25CEE.png" alt="Wang 2025 - CEE">
