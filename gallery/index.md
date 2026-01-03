@@ -4,7 +4,7 @@ title: Gallery
 ---
 # Gallery
 
-Below is a non-exhaustive list of photos from prior fieldwork expeditions. This page will be expanded, both with examples from the past and updates from the future.
+Below is a non-exhaustive list of photos from prior fieldwork expeditions. This page will be expanded, both with examples from the past and updates from future work.
 
 <div class="image-grid">
 
