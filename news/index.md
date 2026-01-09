@@ -4,7 +4,7 @@ title: News
 ---
 
 # News
-### January 3rd, 2026: Paper published
+### January 9th, 2026: Paper published
 <a href="../assets/temp/chen26npj.png" class="lightbox">
     <img src="../assets/temp/chen26npj.png" alt="Chen 2026 - npj Climate and Atmospheric Science">
 </a>
