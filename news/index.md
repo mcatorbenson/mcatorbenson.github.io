@@ -5,6 +5,13 @@ title: News
 
 # News
 ### January 3rd, 2026: Paper published
+<a href="../assets/temp/chen26npj.png" class="lightbox">
+    <img src="../assets/temp/chen26npj.png" alt="Chen 2026 - npj Climate and Atmospheric Science">
+</a>
+
+> A paper lead by Dr. Youping Chen (Yunnan University), entitled **"Unprecedented recent summer warming and cross-sphere hydrological coupling in Asian Water Towers"**, is now published with *npj Climate and Atmospheric Science* (accessible [here](https://www.nature.com/articles/s41612-025-01254-y)).
+
+### January 3rd, 2026: Paper published
 <a href="../assets/temp/yue26AGUA.png" class="lightbox">
     <img src="../assets/temp/yue26AGUA.png" alt="Yue 2026 - AGU Advances">
 </a>
