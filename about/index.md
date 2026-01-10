@@ -8,7 +8,7 @@ As of January 1st 2026, I serve as an assistant professor with the <a href="http
 # About (others)
 To be expanded soon (hopefully).
 
-Although I am not accepting graduate students for fall 2026, I hope to invite applications for 2027 and welcome undergraduate students that are interested in tree rings on a rolling basis.
+Although I am not accepting graduate students for fall 2026, I hope to invite applications in 2027 and I welcome undergraduate students that are interested in tree rings on a rolling basis.
 
 <div class="full-width-break">
   <img src="../assets/images/break1.png" alt="">
