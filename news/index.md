@@ -4,6 +4,13 @@ title: News
 ---
 
 # News
+### January 12th, 2026: Paper published
+<a href="../assets/temp/bra26CtP.png" class="lightbox">
+    <img src="../assets/temp/bra26CtP.png" alt="Brázdil 2026 - Climate of the Past">
+</a>
+
+> Professor Rudolf Brázdil's (Masaryk University) paper entitled **"15th century climate in the Czech Lands and its Central European context"** has been published in the journal *Climate of the Past* and can be found [here](https://cp.copernicus.org/articles/22/49/2026/).
+
 ### January 9th, 2026: Paper published
 <a href="../assets/temp/chen26npj.png" class="lightbox">
     <img src="../assets/temp/chen26npj.png" alt="Chen 2026 - npj Climate and Atmospheric Science">
@@ -42,13 +49,6 @@ title: News
 
 > A pre-print entitled **"Unlocking the potential of pollarded oaks: A 375–year hydroclimate reconstruction from northcentral Spain"** lead by Dr. Alba Sanmiguel-Vallelado (Universidad de Valladolid) has been posted on EGUsphere, and can be accessed [here](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-4494).
 
-
-### September 22nd, 2025: Paper published
-<a href="../assets/temp/hom25TREES.png" class="lightbox">
-    <img src="../assets/temp/hom25TREES.png" alt="Homfeld 2025 - Trees">
-</a>
-
-> Inga Homfeld's (JGU Mainz) paper entitled **"Beyond maximum density: multi-parameter insights into Scots pine climate sensitivity"** has been published in the journal *Trees* and is available [here](https://link.springer.com/article/10.1007/s00468-025-02681-3).
 
 <div class="full-width-break">
   <img src="../assets/images/break1.png" alt="">
