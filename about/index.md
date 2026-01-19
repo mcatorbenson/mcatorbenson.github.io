@@ -4,7 +4,6 @@ layout: default
 title: About
 ---
 
-<div class="about-page">
 # About (Max)
 <div class="about-page">
 <div class="about-intro">
