@@ -5,7 +5,6 @@ title: About
 ---
 
 # About (Max)
-<div class="about-page">
 <div class="about-intro">
   <div class="about-text">
     <p>
@@ -22,7 +21,7 @@ As of January 1st 2026, I serve as an assistant professor with the <a href="http
     <img src="/assets/images/SDC11860.JPG" alt="Photo of Max Torbenson">
   </div>
 </div>
-</div>
+
     
 # About (others)
 To be expanded soon (hopefully).
