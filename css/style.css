@@ -327,6 +327,8 @@ a:hover {
   gap: 32px;
   align-items: start;
   margin: 32px 0;
+  margin-top: 12px;   /* was effectively ~32px */
+
 }
 
 .about-photo img {
