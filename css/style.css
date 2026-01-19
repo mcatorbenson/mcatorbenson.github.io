@@ -345,3 +345,7 @@ a:hover {
     order: -1; /* photo first on mobile (optional) */
   }
 }
+
+.about-photo img {
+  border: 1px solid #ddd;
+}
