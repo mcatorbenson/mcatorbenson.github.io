@@ -1,9 +1,12 @@
+
 ---
 layout: default
 title: About
 ---
-# About (Max)
 
+<div class="about-page">
+# About (Max)
+<div class="about-page">
 <div class="about-intro">
   <div class="about-text">
     <p>
@@ -28,4 +31,6 @@ Although I am not accepting graduate students for fall 2026, I hope to invite ap
 
 <div class="full-width-break">
   <img src="../assets/images/break1.png" alt="">
+</div>
+
 </div>
