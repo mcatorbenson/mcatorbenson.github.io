@@ -22,6 +22,7 @@ As of January 1st 2026, I serve as an assistant professor with the <a href="http
     <img src="/assets/images/SDC11860.JPG" alt="Photo of Max Torbenson">
   </div>
 </div>
+</div>
     
 # About (others)
 To be expanded soon (hopefully).
@@ -32,4 +33,3 @@ Although I am not accepting graduate students for fall 2026, I hope to invite ap
   <img src="../assets/images/break1.png" alt="">
 </div>
 
-</div>
