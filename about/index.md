@@ -17,7 +17,7 @@ As of January 1st 2026, I serve as an assistant professor with the <a href="http
       </div>
   
   <div class="about-photo">
-    <img src="/assets/images/SDC11860.JPG" alt="Photo of Max Torbenson">
+    <img src="/assets/images/IMG_20170403_101919_202_g26xh2.png" alt="Photo of Max Torbenson">
   </div>
 </div>
 
