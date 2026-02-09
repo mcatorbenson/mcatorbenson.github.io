@@ -4,6 +4,13 @@ title: News
 ---
 
 # News
+### February 9th, 2026: Paper published
+<a href="../assets/temp/bra26CtP.png" class="lightbox">
+    <img src="../assets/temp/chen26PNAS.png" alt="Chen 2026 - PNAS">
+</a>
+
+> Professor Feng Chen's (Yunnan University) paper entitled **"Climate-driven reduction in biomass production of the Eurasian steppe coincides with nomadic migration during the first millennium CE"** has been published in the journal *Proceedings of the National Academy of Sciences* and is available [here](https://www.pnas.org/doi/10.1073/pnas.2513573123).
+
 ### January 12th, 2026: Paper published
 <a href="../assets/temp/bra26CtP.png" class="lightbox">
     <img src="../assets/temp/bra26CtP.png" alt="Brázdil 2026 - Climate of the Past">
