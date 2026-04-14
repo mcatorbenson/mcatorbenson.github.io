@@ -4,6 +4,9 @@ title: News
 ---
 
 # News
+### April 14th, 2026: Pre-print available
+> Yuxin Liu and professor Feng Chen's (Yunnan University) manuscript entitled **"Coupled atmospheric and land–atmosphere effects on long-term streamflow of the Liao River in East Asian Monsoon Margin"** is now available as a pre-print through *SSRN* [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6561250&__cf_chl_tk=ymQTMB..qP0HNiGi82n_NzHvp69gJGiN6fymFwd1Mjc-1776205069-1.0.1.1-eaYlr31tWVA0xfIqjrnRCaxe.tMndwGJd_b9dhWiZmI).
+
 ### February 9th, 2026: Paper published
 <a href="../assets/temp/chen26pnas.png" class="lightbox">
     <img src="../assets/temp/chen26pnas.png" alt="Chen 2026 - PNAS">
