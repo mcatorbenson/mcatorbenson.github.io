@@ -4,7 +4,7 @@ title: News
 ---
 
 # News
-### April 17th, 2026: Pre-print published
+### April 17th, 2026: Manuscript published
 <a href="../assets/temp/esper26DENDRO.jpg" class="lightbox">
     <img src="../assets/temp/esper26DENDRO.jpg" alt="Esper 2026 - Dendrochronologia">
 </a>
