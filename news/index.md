@@ -9,7 +9,7 @@ title: News
     <img src="../assets/temp/esper26DENDRO.jpg" alt="Esper 2026 - Dendrochronologia">
 </a>
 
-> **"Warming-induced positive age trends challenge MXD detrending"** by Professor Jan Esper (JGU Mainz) and Professor Ulf Büntgen (University of Cambridge) *Dendrochronologia* has been accepted for publication with *Dendrochronologia* and is now in press [here](https://www.sciencedirect.com/science/article/pii/S1125786526000615).
+> **"Warming-induced positive age trends challenge MXD detrending"** by Professor Jan Esper (JGU Mainz) and Professor Ulf Büntgen (University of Cambridge) has been accepted for publication with *Dendrochronologia* and is now in press [here](https://www.sciencedirect.com/science/article/pii/S1125786526000615).
 
 ### April 14th, 2026: Pre-print available
 > Yuxin Liu and Professor Feng Chen's (Yunnan University) manuscript entitled **"Coupled atmospheric and land–atmosphere effects on long-term streamflow of the Liao River in East Asian Monsoon Margin"** is now available as a pre-print through *SSRN* [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6561250&__cf_chl_tk=ymQTMB..qP0HNiGi82n_NzHvp69gJGiN6fymFwd1Mjc-1776205069-1.0.1.1-eaYlr31tWVA0xfIqjrnRCaxe.tMndwGJd_b9dhWiZmI).
