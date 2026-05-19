@@ -4,6 +4,13 @@ title: News
 ---
 
 # News
+### May 19th, 2026: Manuscript published
+<a href="../assets/temp/kunz26JGR.png" class="lightbox">
+    <img src="../assets/temp/kunz26JGR.png" alt="Kunz 2026 - JGR: Biogeosciences">
+</a>
+
+> **"Exorcizing divergence in tree-ring density along the Rocky Mountains"** by Marcel Kunz (JGU Mainz) and others has been published with *Journal of Geophysical Research: Biogeosciences* and is available [here](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JG009783).
+
 ### April 17th, 2026: Manuscript published
 <a href="../assets/temp/esper26DENDRO.jpg" class="lightbox">
     <img src="../assets/temp/esper26DENDRO.jpg" alt="Esper 2026 - Dendrochronologia">
