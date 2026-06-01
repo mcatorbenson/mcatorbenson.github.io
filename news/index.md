@@ -4,6 +4,13 @@ title: News
 ---
 
 # News
+### June 1st, 2026: Paper accepted
+<a href="../assets/temp/yue26AFM.png" class="lightbox">
+    <img src="../assets/temp/yue26AFM.png" alt="Yue 2026 - Agricultural and Forest Meteorology">
+</a>
+
+> **"Geographical and aridity gradients along with species variation shape tree growth sensitivity in the northern and southern transitional zone of China"** by Dr. Weipeng Yue (Yunnan University) and others has been published with *Agricultural and Forest Meteorology* and will be found [here](https://doi.org/10.1016/j.agrformet.2026.111286).
+
 ### May 19th, 2026: Manuscript published
 <a href="../assets/temp/kunz26JGR.png" class="lightbox">
     <img src="../assets/temp/kunz26JGR.png" alt="Kunz 2026 - JGR: Biogeosciences">
