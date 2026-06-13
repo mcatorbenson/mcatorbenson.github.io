@@ -9,7 +9,7 @@ title: News
     <img src="../assets/temp/rod26PCE.png" alt="Röder 2026 - Plant, Cell & Environment">
 </a>
 
-> **"Pre-drought conservative xylem hydraulic architecture is associated with enhanced recovery from the 1976 drought in European beech (Fagus sylvatica L.)"** lead by Dr. Emanuele Ziaco (JGU Mainz) has been accepted with *Plant, Cell & Environment* and will soon be found [here](https://doi.org/10.1111/pce.70691).
+> **"Pre-drought conservative xylem hydraulic architecture is associated with enhanced recovery from the 1976 drought in European beech (Fagus sylvatica L.)"** lead by Dr. Emanuele Ziaco (JGU Mainz) has been accepted with *Plant, Cell & Environment* and can soon be found [here](https://doi.org/10.1111/pce.70691).
 
 ### June 1st, 2026: Paper accepted
 <a href="../assets/temp/yue26AFM.png" class="lightbox">
