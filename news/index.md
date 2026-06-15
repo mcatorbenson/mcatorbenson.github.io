@@ -4,6 +4,13 @@ title: News
 ---
 
 # News
+### June 13th, 2026: Manuscript accepted for publication
+<a href="../assets/temp/albaP1.png" class="lightbox">
+    <img src="../assets/temp/albaP1.png" alt="Sanmiguel PREPRINT - Biogeosciences">
+</a>
+
+> Dr. Alba Sanmiguel-Vallelado's (Universidad de Valladolid) manuscript **"Unlocking the potential of pollarded oaks: A 375–year hydroclimate reconstruction from northcentral Spain"** has, after open peer review, been accepted for publication in *Biogeosciences*. The paper and information on the review process is available [here](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-4494).
+
 ### June 13th, 2026: Brief communication accepted
 <a href="../assets/temp/rod26PCE.png" class="lightbox">
     <img src="../assets/temp/rod26PCE.png" alt="Röder 2026 - Plant, Cell & Environment">
@@ -79,13 +86,6 @@ title: News
 
 > **"Pan-alpine summer temperatures since 742 CE"** by Professor Jan Esper (JGU Mainz) and others has been [published](https://www.sciencedirect.com/science/article/pii/S1125786525001468) in *Dendrochronologia*.
 
-
-### October 13th, 2025: Pre-print available
-<a href="../assets/temp/albaP1.png" class="lightbox">
-    <img src="../assets/temp/albaP1.png" alt="Sanmiguel PREPRINT - Biogeosciences">
-</a>
-
-> A pre-print entitled **"Unlocking the potential of pollarded oaks: A 375–year hydroclimate reconstruction from northcentral Spain"** lead by Dr. Alba Sanmiguel-Vallelado (Universidad de Valladolid) has been posted on EGUsphere, and can be accessed [here](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-4494).
 
 
 <div class="full-width-break">
