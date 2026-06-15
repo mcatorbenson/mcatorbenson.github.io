@@ -4,7 +4,7 @@ title: News
 ---
 
 # News
-### June 13th, 2026: Paper accepted
+### June 13th, 2026: Brief communication accepted
 <a href="../assets/temp/rod26PCE.png" class="lightbox">
     <img src="../assets/temp/rod26PCE.png" alt="Röder 2026 - Plant, Cell & Environment">
 </a>
