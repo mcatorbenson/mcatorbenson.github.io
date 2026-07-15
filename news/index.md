@@ -6,14 +6,14 @@ title: News
 # News
 ### July 15th, 2026: Paper published
 <a href="../assets/temp/nahtz26JOFR.png" class="lightbox">
-    <img src="../assets/temp/nahtz26JOFR.png" alt="Sanmiguel PREPRINT - Biogeosciences">
+    <img src="../assets/temp/nahtz26JOFR.png" alt="Nahtz 2026 - Journal of Forestry Research">
 </a>
 
 > The article **"Central Himalayan tree-ring density network reveals warm-season temperature variability back to 1775 CE"** has been published in *Journal of Forestry Research* and is available [here](https://link.springer.com/article/10.1007/s11676-026-02104-0).
 
 ### June 13th, 2026: Manuscript accepted for publication
 <a href="../assets/temp/albaP1.png" class="lightbox">
-    <img src="../assets/temp/albaP1.png" alt="Sanmiguel PREPRINT - Biogeosciences">
+    <img src="../assets/temp/albaP1.png" alt="Sanmiguel-Vallelado 2026 - Biogeosciences">
 </a>
 
 > Dr. Alba Sanmiguel-Vallelado's (Universidad de Valladolid) manuscript **"Unlocking the potential of pollarded oaks: A 375–year hydroclimate reconstruction from northcentral Spain"** has, after open peer review, been accepted for publication in *Biogeosciences*. The paper and information on the review process is available [here](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-4494).
