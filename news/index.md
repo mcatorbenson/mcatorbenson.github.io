@@ -4,6 +4,13 @@ title: News
 ---
 
 # News
+### July 15th, 2026: Paper published
+<a href="../assets/temp/nahtz26JOFR.png" class="lightbox">
+    <img src="../assets/temp/nahtz26JOFR.png" alt="Sanmiguel PREPRINT - Biogeosciences">
+</a>
+
+> The article **"Central Himalayan tree-ring density network reveals warm-season temperature variability back to 1775 CE"** has been published in *Journal of Forestry Research* and is available [here](https://link.springer.com/article/10.1007/s11676-026-02104-0).
+
 ### June 13th, 2026: Manuscript accepted for publication
 <a href="../assets/temp/albaP1.png" class="lightbox">
     <img src="../assets/temp/albaP1.png" alt="Sanmiguel PREPRINT - Biogeosciences">
