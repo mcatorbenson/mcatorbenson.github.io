@@ -4,6 +4,13 @@ title: News
 ---
 
 # News
+### August 21st, 2026: Paper published
+<a href="../assets/temp/trnka26EF.png" class="lightbox">
+    <img src="../assets/temp/trnka26EF.png" alt="Trnka 2026 - Earth's Future">
+</a>
+
+> The article **"Climate‐induced severe water scarcity events as harbingers of global wheat price"** led by Professor Miroslav Trnka has been published in *Earth's Future* (open access) and can be downloaded [here](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025EF006095).
+
 ### July 15th, 2026: Paper published
 <a href="../assets/temp/nahtz26JOFR.png" class="lightbox">
     <img src="../assets/temp/nahtz26JOFR.png" alt="Nahtz 2026 - Journal of Forestry Research">
