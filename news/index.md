@@ -4,6 +4,13 @@ title: News
 ---
 
 # News
+### October 7th, 2026: Review paper published
+<a href="../assets/temp/esper26IJFME.png" class="lightbox">
+    <img src="../assets/temp/esper26IJFME.png" alt="Esper 2026 - Italian Journal of Forest and Mountain Environments">
+</a>
+
+> **"The oldest trees of the Mediterranean"** by Professor Jan Esper (JGU Mainz) has been published in the *Italian Journal of Forest and Mountain Environments* and can be accessed [here](https://italiaforestalemontana.it/index.php/ifm/article/view/1249).
+
 ### August 21st, 2026: Paper published
 <a href="../assets/temp/trnka26EF.png" class="lightbox">
     <img src="../assets/temp/trnka26EF.png" alt="Trnka 2026 - Earth's Future">
