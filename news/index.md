@@ -9,7 +9,7 @@ title: News
     <img src="../assets/temp/esper26IJFME.png" alt="Esper 2026 - L'Italia Forestale e Montana">
 </a>
 
-> **"The oldest trees of the Mediterranean"** by Professor Jan Esper (JGU Mainz) has been published in the *L'Italia Forestale e Montana* and can be accessed [here](https://italiaforestalemontana.it/index.php/ifm/article/view/1249).
+> **"The oldest trees of the Mediterranean"** by Professor Jan Esper (JGU Mainz) has been published in *L'Italia Forestale e Montana* and can be accessed [here](https://italiaforestalemontana.it/index.php/ifm/article/view/1249).
 
 ### August 21st, 2026: Paper published
 <a href="../assets/temp/trnka26EF.png" class="lightbox">
