@@ -4,6 +4,13 @@ title: News
 ---
 
 # News
+### October 29th, 2026: Manuscript accepted for publication
+<a href="../assets/temp/wang26GRL.png" class="lightbox">
+    <img src="../assets/temp/wang26GRL.png" alt="Wang 2026 - Geophysical Research Letters">
+</a>
+
+> **"Recent slowing Arctic-amplified warming drives an unprecedented water recovery in the world's most voluminous freshwater lake"** by Shijie Wang and Professor Feng Cheng (Yunnan University) has been accepted for publication in *Geophysical Research Letters* and will be accessible [here](https://doi.org/10.1029/2026GL124400) when proofs have been published.
+
 ### October 7th, 2026: Review paper published
 <a href="../assets/temp/esper26IJFME.png" class="lightbox">
     <img src="../assets/temp/esper26IJFME.png" alt="Esper 2026 - L'Italia Forestale e Montana">
