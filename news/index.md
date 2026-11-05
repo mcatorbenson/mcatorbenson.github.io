@@ -4,12 +4,20 @@ title: News
 ---
 
 # News
-### October 29th, 2026: Manuscript accepted for publication
+### November 5th, 2026: Manuscript accepted for publication
+<a href="../assets/temp/stahle26JCLIM.png" class="lightbox">
+    <img src="../assets/temp/stahle26JCLIM.png" alt="Stahle 2026 - Journal of Climate">
+</a>
+
+> **"Extremes, teleconnections, and trends in growing season precipitation over the Corn Belt, 1182-2023 CE"** led by Professor David Stahle (University of Arkansas) has been accepted for publication in the *Journal of Climate* and proof can be accessed [here](https://doi.org/10.1175/JCLI-D-25-0457.1).
+
+
+### October 29th, 2026: Manuscript published
 <a href="../assets/temp/wang26GRL.png" class="lightbox">
     <img src="../assets/temp/wang26GRL.png" alt="Wang 2026 - Geophysical Research Letters">
 </a>
 
-> **"Recent slowing Arctic-amplified warming drives an unprecedented water recovery in the world's most voluminous freshwater lake"** by Shijie Wang and Professor Feng Cheng (Yunnan University) has been accepted for publication in *Geophysical Research Letters* and will be accessible [here](https://doi.org/10.1029/2026GL124400) when proofs have been published.
+> **"Recent slowing Arctic-amplified warming drives an unprecedented water recovery in the world's most voluminous freshwater lake"** by Shijie Wang and Professor Feng Cheng (Yunnan University) has been published in *Geophysical Research Letters* and is accessible [here](https://doi.org/10.1029/2026GL124400).
 
 ### October 7th, 2026: Review paper published
 <a href="../assets/temp/esper26IJFME.png" class="lightbox">
