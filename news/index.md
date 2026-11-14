@@ -4,6 +4,14 @@ title: News
 ---
 
 # News
+### November 14th, 2026: Manuscript accepted for publication
+<a href="../assets/temp/li26DENDRO.png" class="lightbox">
+    <img src="../assets/temp/li26DENDRO.png" alt="Li 2026 - Dendrochronologia">
+</a>
+
+> **"Differential radial growth resilience of Picea crassifolia and Pinus tabuliformis to mild and severe drought in northwestern China"** by Yue Li and Professor Feng Chen (Yunnan University) is now in press with *Dendrochronologia* and pre-proofs can be found [here](https://doi.org/10.1016/j.dendro.2026.126640).
+
+
 ### November 5th, 2026: Manuscript accepted for publication
 <a href="../assets/temp/stahle26JCLIM.png" class="lightbox">
     <img src="../assets/temp/stahle26JCLIM.png" alt="Stahle 2026 - Journal of Climate">
